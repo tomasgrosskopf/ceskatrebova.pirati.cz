@@ -1,0 +1,15 @@
+<div class="c-program-candidate-badge {% if include.leader %}c-program-candidate-badge--leader{% endif %}">
+    <div class="c-program-candidate-badge__body">
+        <div class="c-program-candidate-badge__avatar">
+            <a href="{{ include.candidate.url | relative_url }}">
+<!--                <span class="c-program-candidate-badge__rank"><span>{{ include.candidate.cityCandidatePosition }}.</span></span>-->
+		 <img src="{{ candidate.img | prepend: '/assets/img/' | relative_url }}" alt="{{person.name}}" style="width: 92px">
+            </a>
+        </div>
+        <div class="c-program-candidate-badge__description">
+            <h4 class="c-program-candidate-badge__name"><a href="{{ include.candidate.url | relative_url }}">{{ candidate.fullname }}</a></h4>
+            <strong class="c-program-candidate-badge__profession">{{ include.candidate.profession }}</strong>
+            <p class="c-program-candidate-badge__bio">{{ include.candidate.candidateDescription }}</p>
+        </div>
+    </div>
+</div>
