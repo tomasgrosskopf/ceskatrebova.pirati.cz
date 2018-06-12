@@ -1,0 +1,1 @@
+# ceskatrebova.pirati.cz
