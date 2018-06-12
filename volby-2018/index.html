@@ -1,0 +1,78 @@
+---
+layout: default
+---
+{% include submenu.html %}
+
+<div class="medium-12 large-12 columns">
+	<div class="row">
+	    <blockquote class="c-blockquote c-blockquote--wicon">
+		    <p>
+			Máme jasnou vizi pro Chrudim a vytyčeno několik okruhů, které pokrývají, podle nás, nejpalčivější problémy města. Jedná se například o transparenci hospodaření města, digitalizaci a modernizaci, zapojení občanů do rozhodování, ale i vodohospodářství a ekologii. Nebudeme rozvracet dobře postavené stávající projekty města, ale spíš k nim chceme přidat pirátský pohled a podle toho je upravit. Zejména je udělat transparentnější, efektivnější a interaktivnější pro občany.
+		    </p>
+        </div>	<div class="row">
+		<section class="o-section o-section--spaceBot">
+			<div class="o-section-inner o-section-inner--leftBlock">
+				<header class="o-section-header">
+					<h1 class="o-section__heading text-center">Představte si, že Chrudim bude ...</h1>
+				</header>
+			</div>
+		</section>
+
+	</div>
+
+</div>
+<div class="medium-12 large-12 columns">
+</div>
+{% for item in site.data.volby-2018.program.program %}
+
+	{% assign loopindex = forloop.index | modulo: 3 %}
+		{% if loopindex == 1 %}
+			<div class=row>
+		{% endif %}
+			<div class="medium-4 columns">
+
+			    <img class="o-program-image" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.title}}" />
+			    <a href="{{ item.url | relative_url }}">
+				<h2 class="c-program-items__item-title">{{ item.name }}</h2>
+			    </a>
+			    <p>{{ item.desc }} <a href="{{ item.url | relative_url }}">Pokračování zde...</a><p>
+		       </div> 
+		{% if loopindex == 0 %}
+		<hr>
+		</div>
+	    	{% endif %}
+
+{% endfor %}
+
+
+{% comment %}
+
+<div class="row small-up-2 medium-up-3 large-up-4">
+<div class="column column-block">
+  <a href="{{item.url | relative_url }}">
+    <img class="program-icon" src="{{ item.img | prepend: 'assets/img/program/' | relative_url}}" alt="{{item.name}}" />
+    <h2>{{ item.name }}</h2>
+  </a>
+    <p>{{ item.desc }}</p>
+</div>
+</div>
+
+{% endcomment %}
+
+{% comment %}
+	{% assign loopindex = forloop.index | modulo: 2 %}
+		{{ loopindex }}
+		{% if loopindex == 1 %}
+			<div class="medium-3 columns">
+						    <a href="{{ item.url | relative_url }}">
+							<h3 class="c-program-items__item-title">{{ item.name }}</h3>
+						    </a>
+							<p>{{ item.desc }}</p>
+		{% endif %}
+		{% if loopindex == 0 %}
+		       </div> 
+	    	{% endif %}
+{% endcomment %}
+
+</div> 
+

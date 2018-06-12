@@ -1,0 +1,25 @@
+- name: Živé město - Smart city
+  desc: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají a kontrolovat hospodaření města. Město se musí snažit jim jít naproti a být otevřené a transparentní. Aktivní zapojení lidí do správy jejich města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží. Zprůhlednění hospodaření města a boj s korupcí je naší velkou prioritou. 
+  img:
+  url: zivemesto
+
+- name: Otevřené město
+  desc: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají a kontrolovat hospodaření města. Město se musí snažit jim jít naproti a být otevřené a transparentní. Aktivní zapojení lidí do správy jejich města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží. Zprůhlednění hospodaření města a boj s korupcí je naší velkou prioritou. 
+  img:
+  url: otevrenemesto
+
+- name: Doprava
+  desc: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají a kontrolovat hospodaření města. Město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.
+  img:
+  url: doprava
+
+- name: Kultura - Sport - Turistika 
+  desc: Kulturní a sportovní vyžití patří k zdravému a prosperujícímu městu plnému inteligentních lidí. Široká nabídka různých kulturních, sportovních a dalších volnočasových aktivit přitahuje do města návštěvníky z širokého okolí, nezřídka i ze zahraničí, omezuje vznik patologických jevů ve společnosti a pomáhá utvářet duch pospolitosti a vzájemného respektu. Podporujeme občanskou iniciativu a vytvoříme podmínky pro rozmanitost kulturního i sportovního života v Chrudimi.
+  img:
+  url: kulturasportturistika
+
+- name: Vodohospodářství
+  desc: Proč město Chrudim prodalo v roce 2005 svou vodu, když městská firma neprodělávala? Podle výročních zpráv společnosti Vodohospodářské služby Chrudim a.s., které je majoritním, 95% vlastníkem společnosti dceřinná firma rakouské firmy Energy AG získává zahraniční koncern na dividendách průměrně kolem 15-20 milionů korun ročně.  Tento zisk tak odtéká do Rakouska. Pojďme vrátit chrudimskou vodu zpět do rukou občanů a snížit cenu vody. 
+  img:
+  url: vodohospodarstvi
+
