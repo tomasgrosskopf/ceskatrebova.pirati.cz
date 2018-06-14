@@ -1,9 +1,10 @@
 ---
+title: Živé město - Smart City
 uid: zive-mesto
 garant: Pavel Štěpánek
-title: Živé město - Smart City
 img: ismart-city.svg
-perex: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
+perex: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních
+  peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
 order: 1
 ---
 
@@ -35,12 +36,12 @@ Smart-City nevnímáme jenom jako moderní pojem, který by bylo dobré prodat, 
 
 ### Podnikatelský inkubátor a coworkingové centrum
 
-- Chrudim je líhní chytrých a nadaných lidí. Jen jim město, na rozdíl od mnoha jiných, dostatečně nepomáhá se postavit na vlastní nohy. Iniciujeme vznik a rozvoj Chrudimského podnikatelského inkubátoru a tzv. Coworking space (sdílené pracovní prostory) nejen pro inkubované subjekty, ale také pro širokou veřejnost. Ty dnes neodmyslitelně patří k modernímu stylu práce a tudíž k modernímu městu. 
+- Česká Třebová je líhní chytrých a nadaných lidí. Jen jim město, na rozdíl od mnoha jiných, dostatečně nepomáhá se postavit na vlastní nohy. Iniciujeme vznik a rozvoj Českotřebovského podnikatelského inkubátoru a tzv. Coworking space (sdílené pracovní prostory) nejen pro inkubované subjekty, ale také pro širokou veřejnost. Ty dnes neodmyslitelně patří k modernímu stylu práce a tudíž k modernímu městu. 
 
 - Nabídneme podporu těm, kdo projeví zájem. Reagujeme na aktuální kauzy (jak se vypořádat s EET, školení GDPR a další). Členové Pirátů se vzdělávají navzájem formou tzv. Putovní univerzity, kdy každý vnáší do celku své know-how. 
 
 ### Moderní technologie
 
 - Piráti mají vizi města, které disponuje plnou občanskou vybaveností 21. století. K ní určitě patří dostupná veřejná wi-fi ve vybraných oblastech města.  
-- Zasadíme se o využívání technologií ve veřejném prostoru. Například taková lampa pouličního osvětlení nemusí být pouhou lampou, ale může sloužit zároveň jako wi-fi nebo nabíječka pro elektrokola a telefony, u laviček by si pak člověk mohl připojit laptop a pracovat tak na čerstvém vzduchu, zatímco si kolem hrají jeho děti. Chytrá lampa nemusí svítit pořád, ale v zájmu ušetření nejen nákladů na energie, ale i energie samotné a také světelného znečištění,  by měla mít pohybové senzory a stmívat se, pokud se v její blízkosti nikdo nepohybuje. V místech, kde nejsou inženýrské sítě, by mohly stát lampy na slolární panely. Podobně fungují “chytré kontejnery”, které se se ozvou, když se naplní.
+- Zasadíme se o využívání technologií ve veřejném prostoru. Například taková lampa pouličního osvětlení nemusí být pouhou lampou, ale může sloužit zároveň jako wi-fi nebo nabíječka pro elektrokola a telefony, u laviček by si pak člověk mohl připojit laptop a pracovat tak na čerstvém vzduchu, zatímco si kolem hrají jeho děti. Chytrá lampa nemusí svítit pořád, ale v zájmu ušetření nejen nákladů na energie, ale i energie samotné a také světelného znečištění,  by měla mít pohybové senzory a stmívat se, pokud se v její blízkosti nikdo nepohybuje. V místech, kde nejsou inženýrské sítě, by mohly stát lampy na solární panely. Podobně fungují “chytré kontejnery”, které se se ozvou, když se naplní.
 

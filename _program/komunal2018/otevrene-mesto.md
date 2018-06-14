@@ -1,10 +1,10 @@
 ---
-uid: otevrene-mesto
-garant: Zdeněk Kubala
 title: Otevřené město a Transparence
+uid: otevrene-mesto
+garant: 'Jiří Ducháček , Jakub Hevera '
 img: otevrene-mesto.svg
-perex:
-order: 2
+perex: 
+order: 1
 ---
 
 Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají a kontrolovat hospodaření města. Město se musí snažit jim jít naproti a být otevřené a transparentní. Aktivní zapojení lidí do správy jejich města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží. Zprůhlednění hospodaření města a boj s korupcí je naší velkou prioritou.
@@ -37,4 +37,4 @@ Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají
 
 ### Spolek Otevřená města
 
-- Chceme docílit toho, že město Chrudim vstoupí do spolku Otevřená města. A prohloubí tak spolupráci v oblasti zveřejňování a sdílení dat mezi obcemi.
+- Chceme docílit toho, že město Česká Třebová  vstoupí do spolku Otevřená města. A prohloubí tak spolupráci v oblasti zveřejňování a sdílení dat mezi obcemi.

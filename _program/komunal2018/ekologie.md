@@ -1,12 +1,11 @@
 ---
-uid: ekologie
-garant: Aleš Nunvář
 title: Ekologie
+uid: ekologie
+garant: Martin Saifrt
 img: ekologie.svg
 perex: 
 order: 4
 ---
-
 
 Jako Piráti si uvědomujeme důležitost ochrany životního prostředí, včetně kvality spodních vod, čistoty ovzduší a hospodárného nakládání s půdou i dešťovou vodou. Učiníme kroky vedoucí k efektivnímu nakládání s opady, to vše za účelem snížení podílu netříděného odpadu a snížení nákladů na jeho svoz, zpracování a likvidaci. Mimo to chceme občanům města nabídnou možnost aktivně se podílet na zkrášlení města.
 
@@ -23,14 +22,12 @@ Jako Piráti si uvědomujeme důležitost ochrany životního prostředí, včet
 
 - Součástí registračního portálu bude interaktivní mapa umístění kontejnerů ve městě s informacemi a návody na správné třídění.  
 
-- Podpoříme vybudování podzemních kontejnerů na tříděný odpad v historickém centru města a na nádraží s cílem podpořit třídění, ale nenarušit kulturní a estetický dojem z našeho města. 
-
 - Rozšíříme současnou podporu kompostováni i o domácí / bytové komposty metodou tzv. vermikompostování tedy pomocí žížal 
 
 ### Sběrný dvůr
 
 - Změníme otevírací dobu sběrného dvora ve prospěch obou dnů víkendu 
-- Zrušíme demotivační poplatek za stavební suť a zrevidujeme i ostatní poplatky a limity pro občany Chrudimi, které v důsledku mohou vést ke vzniku černých skládek. 
+- Zrušíme demotivační poplatek za stavební suť a zrevidujeme i ostatní poplatky a limity pro občany, které v důsledku mohou vést ke vzniku černých skládek. 
 - Zajistíme recyklaci biologického odpadu.  
 - Podpoříme vznik recyklačního (re-use) centra a zajistíme osvětu a podporu bezodpadového hospodářství (zero waste) a třídění obecně. 
 

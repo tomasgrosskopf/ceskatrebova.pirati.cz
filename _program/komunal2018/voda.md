@@ -1,10 +1,11 @@
 ---
+title: voda
+published: false
 uid: voda
 garant: Daniel Lebduška
-title: voda
 img: voda.svg
-perex:
-order: 8
+perex: 
+order: 10
 ---
 
 Proč město Chrudim prodalo v roce 2005 svou vodu, když městská firma neprodělávala? Podle výročních zpráv společnosti Vodohospodářské služby Chrudim a.s., které je majoritním, 95% vlastníkem společnosti dceřinná firma rakouské firmy Energy AG získává zahraniční koncern na dividendách průměrně kolem 15-20 milionů korun ročně.  Tento zisk tak odtéká do Rakouska. Pojďme vrátit chrudimskou vodu zpět do rukou občanů a snížit cenu vody. 
