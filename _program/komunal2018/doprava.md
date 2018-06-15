@@ -36,7 +36,6 @@ Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě
 
 - Hlavní prioritou v oblasti automobilové dopravy musí být bezpečnost.  
 
-- Nedovolíme další prodlužování stavby II. fáze obchvatu 
 
 - Zasadíme se o více parkovacích míst na sídlištích. Zvýšíme dostupnost parkovacích míst. Zavedeme inteligentní parkování - volné místo najdete např. v aplikaci. 
 
