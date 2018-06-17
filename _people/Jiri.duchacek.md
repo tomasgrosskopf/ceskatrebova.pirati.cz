@@ -4,7 +4,7 @@ name: Jiří Ducháček
 fullname: Jiří Ducháček
 category:
   - pak
-  -kandidat
+  - kandidat-trebova-2018
 img: null
 description: člen Pirátské strany
 candidatedesc: IT manažer
