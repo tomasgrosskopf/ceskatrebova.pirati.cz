@@ -2,7 +2,9 @@
 uid: jaroslav.lainz
 name: Jaroslav Lainz
 fullname: Mgr. Jaroslav Lainz
-category: -pak
+category: 
+-pak
+- kandidat-trebova-2018
 img: null
 description: 'Sociální pracovník '
 ordpak: 4
