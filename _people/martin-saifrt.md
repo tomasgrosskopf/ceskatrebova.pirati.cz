@@ -8,7 +8,7 @@ category:
 img: null
 description: člen Pirátské straby
 candidatedesc: aktuár
-ordpak: null
+ordpak: 3
 ordkomunal2018: 3
 mail:
   - martin.saifrt@pirati.cz
