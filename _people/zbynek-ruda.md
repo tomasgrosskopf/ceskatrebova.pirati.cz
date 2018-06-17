@@ -6,7 +6,7 @@ category:
   - pak
   - kandidat-trebova-2018
 img: null
-description: 'člen Pirátské strany, volební manažer pro Chrudim'
+description: příznivec Pirátské strany
 candidatedesc: Marketingový manažer
 ordpak: 2
 ordkomunal2018: 2
@@ -20,5 +20,3 @@ profiles:
   linkedin: null
 published: true
 ---
-
-
