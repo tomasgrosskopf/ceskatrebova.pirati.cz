@@ -5,7 +5,7 @@ fullname: Mgr. Jaroslav Lainz
 category: -pak
 img: null
 description: 'Sociální pracovník '
-ordpak: null
+ordpak: 4
 ordkomunal2018: 4
 mail: null
 mob: null
