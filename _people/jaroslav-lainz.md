@@ -2,10 +2,11 @@
 uid: jaroslav.lainz
 name: Jaroslav Lainz
 fullname: Mgr. Jaroslav Lainz
-category: null
+category: -pak
 img: null
 description: 'Sociální pracovník '
 ordpak: null
+ordkomunal2018:4
 mail: null
 mob: null
 profiles:
