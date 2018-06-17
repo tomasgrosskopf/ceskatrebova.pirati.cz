@@ -2,7 +2,7 @@
 uid: jakub.hevera
 name: Jakub Hevera
 fullname: Jakub Hevera
-category: null
+category: -pak
 img: null
 description: člen Pirátské strany
 candidatedesc: Elektrotechnik
