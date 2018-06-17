@@ -1,18 +1,15 @@
 ---
-uid: pavel.stepanek
-name: Pavel Štěpánek
-fullname: Pavel Štěpánek
-category:
-  - pak
-  - koordinatori
-  - kandidat-chrudim-2018
-img: people/pavel-stepanek.jpg
-description: koordinátor krajského sdružení pro Pardubický kraj
-candidatedesc: 'živnostník, člen kulturní komise'
+uid: jakub.hevera
+name: Jakub Hevera
+fullname: Jakub Hevera
+category: null
+img: null
+description: člen Pirátské strany
+candidatedesc: Elektrotechnik
 ordpak: null
-ordkomunal2018: 1
+ordkomunal2018: 5
 mail:
-  - pavel.stepanek@pirati.cz
+  - jakub.hevera@pirati.cz
 mob: null
 profiles:
   github: null
