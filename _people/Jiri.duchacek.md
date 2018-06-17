@@ -8,7 +8,7 @@ category:
 img: null
 description: člen Pirátské strany
 candidatedesc: IT manažer
-ordpak: null
+ordpak: 1
 ordkomunal2018: 1
 mail:
   - jiri.duchacekr@pirati.cz
