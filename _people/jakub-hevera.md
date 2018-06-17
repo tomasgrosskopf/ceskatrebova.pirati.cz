@@ -7,7 +7,7 @@ category: -pak
 img: null
 description: člen Pirátské strany
 candidatedesc: Elektrotechnik
-ordpak: null
+ordpak: 5
 ordkomunal2018: 5
 mail:
   - jakub.hevera@pirati.cz
