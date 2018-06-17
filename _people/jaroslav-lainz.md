@@ -6,7 +6,7 @@ category: -pak
 img: null
 description: 'Sociální pracovník '
 ordpak: null
-ordkomunal2018:4
+ordkomunal2018: 4
 mail: null
 mob: null
 profiles:
