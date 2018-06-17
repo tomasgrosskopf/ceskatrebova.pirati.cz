@@ -14,8 +14,7 @@ profiles:
   facebook: null
   twitter: null
   flickr: ''
-ordpraha: 3
-ordkontakty: 1
+ordkontakty: 4
 published: true
 ---
 
