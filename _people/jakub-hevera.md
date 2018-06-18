@@ -1,23 +1,19 @@
 ---
-uid: jakub.hevera
+uid:Jakub Hevera
 name: Jakub Hevera
 fullname: Jakub Hevera
-category: -pak
-- kandidat-trebova-2018
-img: null
-description: člen Pirátské strany
-candidatedesc: Elektrotechnik
+category:
+  - pak
+  - kandidat-trebova-2018
+description: člen Pirátské straby
+candidatedesc: aktuár
 ordpak: 5
 ordkomunal2018: 5
 mail:
   - jakub.hevera@pirati.cz
-mob: null
 profiles:
   github: null
   facebook: null
   twitter: null
-  flickr: null
-published: true
----
-
+  ---
 Jakub Hevera
