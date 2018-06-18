@@ -1,5 +1,5 @@
 ---
-uid:Jakub Hevera
+uid:jakub.hevera
 name: Jakub Hevera
 fullname: Jakub Hevera
 category:
