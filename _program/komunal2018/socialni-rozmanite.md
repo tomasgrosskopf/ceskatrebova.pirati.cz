@@ -1,5 +1,5 @@
 ---
-title: Sociální
+title: Rozmanitá pro rozmanité lidi.
 uid: socialni-rozmanite
 garant: Martin Saifrt
 img: socialni-rozmanite.svg
@@ -22,5 +22,3 @@ Charakter města vytváří nejen jeho podoba a velikost, ale především lidé
 
 
 ### Něco navíc
-
-
