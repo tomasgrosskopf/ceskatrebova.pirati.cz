@@ -4,7 +4,7 @@ name: Zbyněk Ruda
 fullname: Zbyněk Ruda
 category:
   - pak
-  - kandidat-trebova-2018
+  - kandidat-ceskatrebova-2018
 img: people/zbynek.ruda.jpg
 description: příznivec Pirátské strany
 candidatedesc: Marketingový manažer
