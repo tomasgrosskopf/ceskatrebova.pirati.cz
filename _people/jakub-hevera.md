@@ -10,7 +10,7 @@ fullname: Jakub Hevera
 img: people/jakub.hevera.jpg
 description: Člen Pirátské strany
 candidatedesc: elektrotechnik
-ordpak: null
+ordpak: 5
 ordkomunal2018: 5
 mail:
    - jakub.hevera@pirati.cz
