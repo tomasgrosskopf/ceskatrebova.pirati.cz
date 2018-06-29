@@ -5,7 +5,7 @@ fullname: Martin Saifrt
 category:
   - pak
   - kandidat-trebova-2018
-img: null
+img: people/martin.saifrt.jpg
 description: člen Pirátské straby
 candidatedesc: aktuár
 ordpak: 3
@@ -19,4 +19,3 @@ profiles:
   twitter: null
 published: true
 ---
-
