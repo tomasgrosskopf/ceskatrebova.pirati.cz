@@ -1,6 +1,6 @@
 ---
 title: jakub hevera
-published: false
+published: true
 categories:
   - pak
   - kandidat-ceskatrebova-2018
