@@ -1,10 +1,11 @@
 ---
 title: Vzdělání
 uid: vzdelani
-garant: Jaroslav Lainz , Bedřich Ducháček
+garant: 'Jaroslav Lainz , Bedřich Ducháček'
 img: vzdelani.svg
-perex: 
+perex: null
 order: 6
+published: false
 ---
 
 Pirátská strana prosazuje co nejdostupnější vzdělání, které rozvíjí přirozenou tvořivost, podporuje kritické myšlení a vychovává k demokracii. Pro naši společnost je výhodné, aby každý člověk získal vzdělání, které mu umožní naplno rozvinout vlastní potenciál. Vzdělaný člověk má lepší předpoklady orientovat se v médiích, politice a životě vůbec. Usilujeme o to, aby naše školy byly inovativní, demokratické a bezpečné.
@@ -30,5 +31,3 @@ Pirátská strana prosazuje co nejdostupnější vzdělání, které rozvíjí p
 - Klademe důraz na prevenci v oblastech spojených se závislostmi i na internetu, (kyber) šikanou, xenofobií či agresivitou. Aktivity, které širokou veřejnost seznámí a pomohou ji těmto jevům předcházet případně je lépe pochopit, podpoříme. 
 - Jsme pro vznik volnočasových aktivit pro děti a jejich dostupnost nejen sociálně slabším žákům a předškolákům.   
 - Je skvělé, že probíhají rekonstrukce škol, školek. Nesmíme zapomínat ani na okolí těchto institucí. Piráti se zasadí o to, aby bylo bezpečnější a malebnější. Ať už řešením parkování nebo dostatečným úklidem těchto prostranství.
-
-
