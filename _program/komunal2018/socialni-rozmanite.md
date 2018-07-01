@@ -4,7 +4,7 @@ uid: socialni-rozmanite
 garant: Martin Saifrt
 img: socialni-rozmanite.svg
 perex: null
-order: 5
+order: 4
 published: true
 ---
 
