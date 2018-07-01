@@ -1,5 +1,5 @@
 ---
-title: Doprava
+title: Dopravně vyladěná 
 uid: doprava
 garant: Jiří Ducháček
 img: miscellaneous/volebni-rozcestnik.png
@@ -7,7 +7,7 @@ perex: >-
   Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí
   být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete
   MHD, na kole nebo autem.
-order: 3
+order: 2
 published: true
 ---
 
