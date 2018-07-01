@@ -1,7 +1,8 @@
 ---
 title: Zdravá, zelená a příjemná 
 uid: ekologie
-garant: Martin Saifrt
+garant: Martin Saifrt;Zbyněk Ruda
+      
 img: ekologie.svg
 perex: 
 order: 3
