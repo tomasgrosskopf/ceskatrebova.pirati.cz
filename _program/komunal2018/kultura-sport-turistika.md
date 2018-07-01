@@ -1,10 +1,10 @@
 ---
-title: Kultura - Sport - Turistika
-uid: kultura-sport-turistika
+title: Chytrá, zábavná a přitažlivá
+uid: kultura-sport-turistika-vzdelani
 garant: 'Zbyněk Ruda, Milan Vondra, Bedřich Ducháček'
 img: kultura-sport-turistika.svg
 perex: null
-order: 7
+order: 5
 published: true
 ---
 
