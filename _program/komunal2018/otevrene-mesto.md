@@ -1,7 +1,7 @@
 ---
 title: Otevřená a transparentní
 uid: otevrene-mesto
-garant: 'Jiří Ducháček , Jakub Hevera '
+garant: 'Jakub Hevera '
 img: otevrene-mesto.svg
 perex: null
 order: 1
