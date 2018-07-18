@@ -11,7 +11,7 @@ candidatedesc: IT manager
 ordpak: 1
 ordkomunal2018: 1
 mail:
-  - jiri.duchacekr@pirati.cz
+  - jiri.duchacek@pirati.cz
 mob: null
 profiles:
   github: null
