@@ -7,7 +7,7 @@ category:
   - kandidat-ceskatrebova-2018
 img: people/jiri.duchacek.jpg
 description: člen Pirátské strany
-candidatedesc: IT manažer
+candidatedesc: IT manager
 ordpak: 1
 ordkomunal2018: 1
 mail:
@@ -20,4 +20,3 @@ profiles:
   linkedin: null
 published: true
 ---
-
