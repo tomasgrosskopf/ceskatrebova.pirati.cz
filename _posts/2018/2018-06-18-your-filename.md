@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: OTEVŘENÝ SOFTWARE
-date: {}
+date: '2017-05-29 12:39:53 UTC'
 author: Jiří Ducháček
 authorId: jiri.duchacek
 image: null
