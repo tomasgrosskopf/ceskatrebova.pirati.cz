@@ -1,3 +1,3 @@
-## TEST
+## OTEVŘENÝ SOFTWARE
 
-test
+otevřený
