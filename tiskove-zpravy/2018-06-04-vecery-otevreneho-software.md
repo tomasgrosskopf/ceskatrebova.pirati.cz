@@ -5,8 +5,8 @@ title: Večery otevřeného software
 date: 2018-06-03T10:00:00+01:00
 tags: PaRo Linux
 <<<<<<< HEAD
-author: Pavel Štěpánek
-image: miscellaneous/vecer_otevreneho_softwearu_20801.jpg #751x422
+author: Jiří Ducháček
+image:
 =======
 author: Jiří Ducháček
 image: 
