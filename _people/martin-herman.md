@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 uid: martin.herman
 name: Martin Herman
@@ -21,3 +22,28 @@ profiles:
 published: false
 ---
 
+=======
+---
+uid: martin.herman
+name: Martin Herman
+fullname:  Martin Herman
+category:
+  - pak
+  - kandidat-ceskatrebova-2018
+img: people/martin.herman.jpg
+description: člen Pirátské strany
+candidatedesc: seřizovač lisu
+ordpak: 7
+ordkomunal2018: 7
+mail:
+  - Martin.Herman@pirati.cz
+mob: null
+profiles:
+  github: null
+  facebook: null
+  twitter: null
+  linkedin: null
+published: false
+---
+
+>>>>>>> 37d412b4555fad784e867d31d6cafd023e43baf3
