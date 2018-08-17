@@ -1,17 +1,16 @@
 ---
-uid: pavel.zalesky
-name: Pavel Záleský
-fullname: Pavel Záleský
+uid: ondrej.pecina
+name: Ondřej Pecina
+fullname:BC.Ondřej Pecina
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/pavel.zalesky.jpg
+img: people/ppp.jpg
 description: příznivec Pirátské strany
-candidatedesc: lektor dopravy
-ordpak: 10
-ordkomunal2018: 10
-mail:
-  - zaleskyp@gmail.com
+candidatedesc: programátor
+ordpak: 27
+ordkomunal2018: 27
+mail: null
 mob: null
 profiles:
   github: null
@@ -20,4 +19,3 @@ profiles:
   linkedin: null
 published: false
 ---
-

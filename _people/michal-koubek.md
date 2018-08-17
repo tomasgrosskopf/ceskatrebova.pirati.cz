@@ -7,7 +7,7 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/michal.koubek.jpg
-description: 
+description:
 candidatedesc: student
 ordpak: 26
 ordkomunal2018: 26
@@ -21,5 +21,3 @@ profiles:
   linkedin: null
 published: false
 ---
-
-

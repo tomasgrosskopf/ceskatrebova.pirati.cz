@@ -6,12 +6,12 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/ppp.jpg
-description: 
+description:
 candidatedesc: Strojvedoucí ČD
 ordpak: 6
 ordkomunal2018: 6
 mail:
-  - 
+  -
 mob: null
 profiles:
   github: null

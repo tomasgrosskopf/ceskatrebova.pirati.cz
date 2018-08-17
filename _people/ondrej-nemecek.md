@@ -6,7 +6,7 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/ondrej.nemecek.jpg
-description: 
+description:
 candidatedesc: elektrotechnik
 ordpak:12
 ordkomunal2018: 12
@@ -20,4 +20,3 @@ profiles:
   linkedin: null
 published: false
 ---
-
