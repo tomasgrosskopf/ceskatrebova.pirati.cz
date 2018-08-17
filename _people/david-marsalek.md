@@ -5,13 +5,13 @@ fullname: Bc.David Maršálek
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: 
-description: 
+img: null
+description: null
 candidatedesc: Strojvedoucí ČD
 ordpak: 6
 ordkomunal2018: 6
 mail:
-  - 
+  - null
 mob: null
 profiles:
   github: null
