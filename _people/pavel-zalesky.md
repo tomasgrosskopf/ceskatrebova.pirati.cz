@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 uid: pavel.zalesky
 name: Pavel Záleský
@@ -21,3 +22,28 @@ profiles:
 published: false
 ---
 
+=======
+---
+uid: pavel.zalesky
+name: Pavel Záleský
+fullname: Pavel Záleský
+category:
+  - pak
+  - kandidat-ceskatrebova-2018
+img: people/pavel.zalesky.jpg
+description: příznivec Pirátské strany
+candidatedesc: lektor dopravy
+ordpak: 10
+ordkomunal2018: 10
+mail:
+  - zaleskyp@gmail.com
+mob: null
+profiles:
+  github: null
+  facebook: null
+  twitter: null
+  linkedin: null
+published: false
+---
+
+>>>>>>> 37d412b4555fad784e867d31d6cafd023e43baf3
