@@ -5,7 +5,7 @@ fullname: Bc.David Maršálek
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: 
+img: people/ppp.jpg
 description: 
 candidatedesc: Strojvedoucí ČD
 ordpak: 6
