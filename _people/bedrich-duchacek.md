@@ -11,7 +11,7 @@ candidatedesc: učitel
 ordpak: 21
 ordkomunal2018: 21
 mail:
-  - beduch@ktct.cz
+#  - beduch@ktct.cz
 mob: null
 profiles:
   github: null

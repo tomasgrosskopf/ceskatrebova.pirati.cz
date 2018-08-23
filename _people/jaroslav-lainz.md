@@ -3,24 +3,23 @@ title: Jaroslav Lainz
 published: true
 categories:
 - pak
-
 - kandidat-ceskatrebova-2018
 uid: jaroslav.lainz
 name: Jaroslav Lainz
 fullname: Mgr.Jaroslav Lainz
 img: people/jaroslav.lainz.jpg
 description: Příznivec Pirátské strany
-candidatedesc: Sociální pracovník
+candidatedesc: sociální pracovník
 ordpak: 4
 ordkomunal2018: 4
 mail:
 - null
-mob: 
+mob:
 profiles:
-  github: 
-  facebook: 
-  twitter: 
-  flickr: 
+  github:
+  facebook:
+  twitter:
+  flickr:
 ---
 
-Mgr. Jaroslav Lainz 
+Mgr. Jaroslav Lainz

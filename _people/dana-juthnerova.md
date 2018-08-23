@@ -11,7 +11,7 @@ candidatedesc: učitelka
 ordpak: 16
 ordkomunal2018: 16
 mail:
-  - danahvesna@email.cz
+#  - danahvesna@email.cz
 mob: null
 profiles:
   github: null

@@ -11,7 +11,7 @@ candidatedesc: vedoucí obchodního oddělení
 ordpak: 22
 ordkomunal2018: 22
 mail:
-  - coolner@centrum.cz
+#  - coolner@centrum.cz
 mob: null
 profiles:
   github: null

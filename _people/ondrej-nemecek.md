@@ -8,10 +8,10 @@ category:
 img: people/ppp.jpg
 description:
 candidatedesc: elektrotechnik
-ordpak:12
+ordpak: 12
 ordkomunal2018: 12
 mail:
-  - ondra.nemecek@gmail.com
+#  - ondra.nemecek@gmail.com
 mob: null
 profiles:
   github: null

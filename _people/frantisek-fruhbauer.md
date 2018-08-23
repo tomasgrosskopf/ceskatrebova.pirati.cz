@@ -11,7 +11,7 @@ candidatedesc: učitel matematiky
 ordpak: 14
 ordkomunal2018: 14
 mail:
-  - frantisekfruhbauer@gmail.com
+#  - frantisekfruhbauer@gmail.com
 mob: null
 profiles:
   github: null

@@ -11,7 +11,7 @@ candidatedesc: Marketingový specialista
 ordpak: 8
 ordkomunal2018: 8
 mail:
-  - mila.safari@gmail.com
+#  - mila.safari@gmail.com
 mob: null
 profiles:
   github: null

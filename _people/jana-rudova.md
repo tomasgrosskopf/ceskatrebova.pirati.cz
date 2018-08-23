@@ -11,7 +11,7 @@ candidatedesc: lektor dopravy
 ordpak: 17
 ordkomunal2018: 17
 mail:
-  - zbynek.ruda@seznam.cz
+#  - zbynek.ruda@seznam.cz
 mob: null
 profiles:
   github: null

@@ -11,7 +11,7 @@ candidatedesc: obchodní zástupce
 ordpak: 13
 ordkomunal2018: 13
 mail:
-  - vrog@seznam.cz
+#  - vrog@seznam.cz
 mob: null
 profiles:
   github: null

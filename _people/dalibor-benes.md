@@ -11,7 +11,7 @@ candidatedesc: student
 ordpak: 18
 ordkomunal2018: 18
 mail:
-  - dada.benes@gmail.com
+  #- dada.benes@gmail.com
 mob: null
 profiles:
   github: null

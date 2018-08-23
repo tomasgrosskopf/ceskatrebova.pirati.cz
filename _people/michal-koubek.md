@@ -11,12 +11,12 @@ candidatedesc: student
 ordpak: 26
 ordkomunal2018: 26
 mail:
-  - koubek.michal94@gmail.com
+#  - koubek.michal94@gmail.com
 mob: null
 profiles:
   github: null
   facebook: null
   twitter: null
   linkedin: null
-published:true
+published: true
 ---

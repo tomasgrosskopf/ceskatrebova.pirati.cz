@@ -6,12 +6,12 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/ppp.jpg
-description: 
+description:
 candidatedesc: zahraniční obchod
 ordpak: 19
 ordkomunal2018: 19
 mail:
-  - m.koubek@mikroelektronika.cz
+#  - m.koubek@mikroelektronika.cz
 mob: null
 profiles:
   github: null
@@ -20,4 +20,3 @@ profiles:
   linkedin: null
 published: true
 ---
-

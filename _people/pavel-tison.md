@@ -11,7 +11,7 @@ candidatedesc: odborný konzultant
 ordpak: 24
 ordkomunal2018: 24
 mail:
-  - paveltison@gmail.com
+#  - paveltison@gmail.com
 mob: null
 profiles:
   github: null

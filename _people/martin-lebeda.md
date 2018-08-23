@@ -11,7 +11,7 @@ candidatedesc: seřizovač
 ordpak: 25
 ordkomunal2018: 25
 mail:
-  - m.lebed@seznam.cz
+#  - m.lebed@seznam.cz
 mob: null
 profiles:
   github: null

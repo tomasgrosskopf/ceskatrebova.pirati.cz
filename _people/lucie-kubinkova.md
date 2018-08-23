@@ -11,7 +11,7 @@ candidatedesc: architektka
 ordpak: 10
 ordkomunal2018: 10
 mail:
-  - i.juthnerova@email.cz
+#  - i.juthnerova@email.cz
 mob: null
 profiles:
   github: null

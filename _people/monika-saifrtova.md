@@ -11,7 +11,7 @@ candidatedesc: mateřská dovolená
 ordpak: 23
 ordkomunal2018: 23
 mail:
-  - ontice@seznam.cz
+#  - ontice@seznam.cz
 mob: null
 profiles:
   github: null

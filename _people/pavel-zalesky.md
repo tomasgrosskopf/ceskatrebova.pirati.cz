@@ -11,7 +11,7 @@ candidatedesc: lektor dopravy
 ordpak: 10
 ordkomunal2018: 10
 mail:
-  - zaleskyp@gmail.com
+#  - zaleskyp@gmail.com
 mob: null
 profiles:
   github: null

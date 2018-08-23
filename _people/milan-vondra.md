@@ -11,7 +11,7 @@ candidatedesc: lektor dopravy
 ordpak: 15
 ordkomunal2018: 15
 mail:
-  - vondra.vandrak@seznam.cz
+#  - vondra.vandrak@seznam.cz
 mob: null
 profiles:
   github: null

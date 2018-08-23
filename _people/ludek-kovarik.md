@@ -7,11 +7,11 @@ category:
   - kandidat-ceskatrebova-2018
 img: people/ppp.jpg
 description: příznivec Pirátské strany
-candidatedesc: Tiskař
+candidatedesc: tiskař
 ordpak: 11
 ordkomunal2018: 11
 mail:
-  - ludekovarik@gmail.com
+#  - ludekovarik@gmail.com
 mob: null
 profiles:
   github: null
