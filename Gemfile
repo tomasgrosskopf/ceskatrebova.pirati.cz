@@ -23,29 +23,31 @@ gem "jekyll-theme-pirati", "6.1.2"
 # gem "github-pages", group: :jekyll_plugins
 ​
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+# group :jekyll_plugins do
+#  gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
+  gem "jekyll-feed", "~> 0.9.1"
+  gem "jekyll-sass-converter"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11"
-  gem 'jekyll-environment-variables'
-end
+#  gem "jekyll-assets", "3.0.11"
+#  gem 'jekyll-environment-variables'
+# end
 ​
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 ​
-gem "json" # For gem building
-gem 'sprockets', '~> 4.0.0.beta'
-gem 'uglifier', '~> 4.0.0'
-gem "mini_magick"
-gem "autoprefixer-rails"
-gem "image_optim"
-gem "image_optim_bin" # Optional
-gem "image_optim_pack"
+# gem "json" # For gem building
+# gem 'sprockets', '~> 4.0.0.beta'
+# gem 'uglifier', '~> 4.0.0'
+# gem "mini_magick"
+# gem "autoprefixer-rails"
+# gem "image_optim"
+# gem "image_optim_bin" # Optional
+# gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
-gem "wdm", "~> 0.1.1" if Gem.win_platform?
+# gem "wdm", "~> 0.1.1" if Gem.win_platform?
 ​
-group :development, :test do
-  gem "html-proofer"
-end
+# group :development, :test do
+#  gem "html-proofer"
+# end
