@@ -5,7 +5,7 @@ fullname: Mgr.Matěj Soukup
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/matej.soukup.jpg
+img: people/ppp.jpg
 description: člen Pirátské strany
 candidatedesc: geoinformatik, poslanecký asistent
 ordpak: 9
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

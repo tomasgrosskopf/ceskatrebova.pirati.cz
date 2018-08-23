@@ -5,7 +5,7 @@ fullname: Jana Rudová
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/jana.rudova.jpg
+img: people/ppp.jpg
 description:
 candidatedesc: lektor dopravy
 ordpak: 17
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

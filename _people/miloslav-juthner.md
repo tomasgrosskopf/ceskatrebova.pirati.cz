@@ -5,7 +5,7 @@ fullname: Bc.Miloslav Jüthner
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/miloslav.juthner.jpg
+img: people/ppp.jpg
 description: příznivec Pirátské strany
 candidatedesc: Marketingový specialista
 ordpak: 8
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

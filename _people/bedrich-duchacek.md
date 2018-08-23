@@ -5,7 +5,7 @@ fullname: Mgr.Bedřich Ducháček
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/bedrich.duchacek.jpg
+img: people/ppp.jpg
 description:
 candidatedesc: učitel
 ordpak: 21
@@ -20,4 +20,3 @@ profiles:
   linkedin: null
 published: false
 ---
-

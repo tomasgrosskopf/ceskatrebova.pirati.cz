@@ -5,7 +5,7 @@ fullname: Ondřej Němeček
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/ondrej.nemecek.jpg
+img: people/ppp.jpg
 description:
 candidatedesc: elektrotechnik
 ordpak:12
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

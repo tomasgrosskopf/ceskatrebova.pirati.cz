@@ -5,7 +5,7 @@ fullname: Mgr.Dana Jüthnerová
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/dana.juthnerova.jpg
+img: people/ppp.jpg
 description: příznivec Pirátské strany
 candidatedesc: učitelka
 ordpak: 16
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

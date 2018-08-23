@@ -5,7 +5,7 @@ fullname: Ing.Arch.Lucie Kubínková
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/lucie.kubinkova.jpg
+img: people/ppp.jpg
 description:
 candidatedesc: architektka
 ordpak: 10
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

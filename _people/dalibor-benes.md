@@ -5,7 +5,7 @@ fullname: Dalibor Beneš
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/dalibor.benes.jpg
+img: people/ppp.jpg
 description: příznivec Pirátské strany
 candidatedesc: student
 ordpak: 18

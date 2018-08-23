@@ -5,7 +5,7 @@ fullname: Martin Lebeda
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/martin.lebeda.jpg
+img: people/ppp.jpg
 description: příznivec Pirátské strany
 candidatedesc: seřizovač
 ordpak: 25
@@ -18,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published: true
 ---

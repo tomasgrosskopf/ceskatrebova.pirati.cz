@@ -1,4 +1,3 @@
-
 ---
 uid: michal.koubek
 name: Michal Koubek
@@ -6,7 +5,7 @@ fullname: Bc. Michal Koubek
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/michal.koubek.jpg
+img: people/ppp.jpg
 description:
 candidatedesc: student
 ordpak: 26
@@ -19,5 +18,5 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: false
+published:true
 ---
