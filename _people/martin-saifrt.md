@@ -6,8 +6,8 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/martin.saifrt.jpg
-description: člen Pirátské straby
-candidatedesc: Sociální pracovník
+description: člen Pirátské strany
+candidatedesc: komunitní  pracovník
 ordpak: 3
 ordkomunal2018: 3
 mail:
