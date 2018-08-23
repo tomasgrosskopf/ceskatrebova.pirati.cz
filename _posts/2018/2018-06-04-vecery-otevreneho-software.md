@@ -5,7 +5,7 @@ title: Večery otevřeného software
 date: 2018-06-03T10:00:00+01:00
 tags: PaRo Linux
 author: Jiří Ducháček
-image: miscellaneous/vecer_otevreneho_softwearu_20801.jpg #751x422
+image: assets\img\posts\2018\vos201804.jpg#751x422
 ---
 
 V uplynulých měsících bylo možné se v několika městech Pardubického kraje
