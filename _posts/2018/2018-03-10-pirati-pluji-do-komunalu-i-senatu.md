@@ -2,10 +2,11 @@
 layout: post
 category: CLANKY
 title: Piráti plují nejen do komunálu ale i do senátu
-date: 2018-03-10T21:29:00+01:00
+date: 2018-03-10T20:29:00.000Z
 tags: komunálky senátní-volby
 author: Piráti Pardubického kraje
-image: miscellaneous/volebni-rozcestnik.png #751x422
+image: assets/img/miscellaneous/volebni-rozcestnik.png
+published: true
 ---
 
 
