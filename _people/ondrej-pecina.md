@@ -1,7 +1,7 @@
 ---
 uid: ondrej.pecina
 name: Ondřej Pecina
-fullname:BC.Ondřej Pecina
+fullname: BC.Ondřej Pecina
 category:
   - pak
   - kandidat-ceskatrebova-2018
