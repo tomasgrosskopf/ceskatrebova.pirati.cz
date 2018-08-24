@@ -8,8 +8,8 @@ category:
 img: people/ppp.jpg
 description:
 candidatedesc: architektka
-ordpak: 10
-ordkomunal2018: 10
+ordpak: 20
+ordkomunal2018: 20
 mail:
 #  - i.juthnerova@email.cz
 mob: null
