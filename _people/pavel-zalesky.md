@@ -20,3 +20,4 @@ profiles:
   linkedin: null
 published: true
 ---
+myslím, že je čas na změny. Mnoho věcí ve městě se změnilo, ale v posledních letech mám pocit stagnace. Město trápí několik problémů. Jedním z největších je stárnutí města a odchod mladé generace. S tím souvisí i další věci, například startovací byty pro mladé, kultura ve městě apod. Procházka městem ve všední dny večer je deprimující. Město jako by nežilo. Radnice by měla být otevřena všem. Občané by měli mít právo kontrolovat, jak se plní rozpočet jasně a přehledně. Pojďme vyhrnout rukávy a zkusit změnu
