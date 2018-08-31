@@ -22,3 +22,4 @@ profiles:
   flickr: null
 ---
 
+v důsledku vymírání města, jak obyvatel, tak obecného života města, je třeba oživit a omladit vedení města. Je třeba začít aplikovat nové postupy a technologie, kterých se naše “veteránské” vedení města bojí, nebo si s nimi nerozumí. Musí se zefektivnit práce a přístup úřadu, zjednodušit pohyb po městě, například úpravou parkování, zavést funkční informační kanály pro občany a zamyslet se nad bydlením, i pro mladé lidi, které i mne, jakožto zástupce této kategorie trápilo a trápí. Nehýbeme se, a jako město potřebujeme nabrat čerstvý vítr do plachet.
