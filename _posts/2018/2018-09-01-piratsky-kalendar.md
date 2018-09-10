@@ -5,7 +5,7 @@ title: Pirátský kalendář volby 2018
 date: 2018-09-01T20:29:00.000Z
 tags: komunálky akce
 author: Piráti Česká Třebová
-image: assets/img/posts\2018\piratsky-kalendar.jpg
+image: assets/img/posts/2018/piratsky-kalendar.jpg
 published: true
 ---
 
