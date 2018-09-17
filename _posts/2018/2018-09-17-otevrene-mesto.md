@@ -5,7 +5,7 @@ title: Česká Třebová - otevřené město
 date: 2018-09-17T00:20:00.000Z
 tags: komunálky rozpočet
 author: Jiří Ducháček
-image: assets/img/posts/2018/citi-visor.jpg
+image: assets/img/posts/2018/citi_visor.jpg
 published: true
 ---
 ### OTEVŘEME HOSPODAŘENÍ MĚSTA
