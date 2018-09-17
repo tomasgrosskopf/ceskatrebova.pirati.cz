@@ -5,7 +5,7 @@ fullname: Luděk Kovařík
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/ppp.jpg
+img: people/ludek-kovarik.jpg
 description: příznivec Pirátské strany
 candidatedesc: tiskař
 ordpak: 11
