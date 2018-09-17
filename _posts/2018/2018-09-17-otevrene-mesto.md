@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Česká Třebová - otevřené město
-date: 2018-09-17T11:20:00.000Z
+date: 2018-09-17T00:20:00.000Z
 tags: komunálky rozpočet
 author: Jiří Ducháček
 image: assets/img/posts/2018/citi-visor.jpg
