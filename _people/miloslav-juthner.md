@@ -20,3 +20,9 @@ profiles:
   linkedin: null
 published: true
 ---
+Jmenuji se Miloslav Jüthner a je mi 32 let. Jsem ženatý a mám v domě tři malé rošťáky.
+Miluji přírodu, hudbu a naše město. To je také hlavní důvod mé kandidatury, protože mi není
+jedno, co se ve městě a jeho okolí děje a jak. Chtěl bych být součástí té pozitivní změny, která
+je obecně potřeba, ale každý by měl začít na místě jemu nejbližším. Chtěl bych spojit
+Českotřebováky tématy pro každého blízkými. Přírodou, kterou máme opravdu krásnou,
+podporou rodiny a kultury.
