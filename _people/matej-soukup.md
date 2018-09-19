@@ -7,7 +7,7 @@ category:
   - kandidat-ceskatrebova-2018
 img: people/matej_soukupzm.jpg
 description: člen Pirátské strany
-candidatedesc: geoinformatik, poslanecký asistent
+candidatedesc: 'geoinformatik, poslanecký asistent'
 ordpak: 9
 ordkomunal2018: 9
 mail:
