@@ -5,7 +5,7 @@ fullname:  Martin Herman
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/ppp.jpg
+img: people/martin-herman.jpg
 description: člen Pirátské strany
 candidatedesc: seřizovač lisu
 ordpak: 7
