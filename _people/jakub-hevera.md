@@ -22,4 +22,13 @@ profiles:
   flickr: null
 ---
 
-v důsledku vymírání města, jak obyvatel, tak obecného života města, je třeba oživit a omladit vedení města. Je třeba začít aplikovat nové postupy a technologie, kterých se naše “veteránské” vedení města bojí, nebo si s nimi nerozumí. Musí se zefektivnit práce a přístup úřadu, zjednodušit pohyb po městě, například úpravou parkování, zavést funkční informační kanály pro občany a zamyslet se nad bydlením, i pro mladé lidi, které i mne, jakožto zástupce této kategorie trápilo a trápí. Nehýbeme se, a jako město potřebujeme nabrat čerstvý vítr do plachet.
+Jakub Hevera (1994). Celý život bydlím v našem městě, které považuji za hezké, které má potenciál.
+Chci zde žít i dále, ale je třeba trochu změnit směr. Vystudoval jsem SPŠE v Pardubicích, kde nás
+naučili, mimo jiné, řešit problémy a hledat jednoduchá řešení. To byl bod, kdy jsem se začal zajímat o
+politiku – jsou věci, které lze změnit. Po škole nastaly starosti, kde bydlet a co dělat. Bydlední v České
+Třebové pro mladé lidi dostupné až na vyjímky příliš není. Někdy také nebývá lehké dostat se
+k informacím, které by k člověku “měly dojít samy“. Proč Piráti? Prioritou je otevřenost a sdílení,
+které nám může v mnohém pomoci a naše město je potřebuje. Je třeba začít využívat moderních
+komunikačních kanálů a ty zavedené dostat do 21. století. Chci pomoci změnit město svým pohledem
+na věc tak, abychom zde mohli žít plnohodnotné životy i my, mladí. Inspirace leží i v městech v našem
+nejbližším okolí.
