@@ -5,7 +5,7 @@ fullname: Bc.Vít Přívratský
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/ppp.jpg
+img: people/vit-privratsky.jpg
 description: příznivec Pirátské strany
 candidatedesc: obchodní zástupce
 ordpak: 13
