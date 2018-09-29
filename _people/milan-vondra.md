@@ -5,7 +5,7 @@ fullname: Milan  Vondra
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/milan-vondra.jpg
+img: people/milan-vondra.JPG
 description: příznivec Pirátské strany
 candidatedesc: skladnik
 ordpak: 15

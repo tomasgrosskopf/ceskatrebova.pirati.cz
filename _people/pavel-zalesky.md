@@ -5,7 +5,7 @@ fullname: Pavel Záleský
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/pavel-zaleskyv.jpg
+img: people/pavel-zalesky.JPG
 description: příznivec Pirátské strany
 candidatedesc: lektor dopravy
 ordpak: 10
