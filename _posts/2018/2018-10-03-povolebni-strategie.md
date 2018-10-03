@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Povolební strategie Pirátů Česká Třebová
-date: 2018-10-17T17:29:00.000Z
+date: 2018-10-037T15:29:00.000Z
 tags: komunálky strategie
 author: Jiří Ducháček
 image: assets/img/posts/2018/vyjednavani.jpg
