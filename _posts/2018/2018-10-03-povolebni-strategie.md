@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Povolební strategie Pirátů Česká Třebová
-date: {}
+date: 2018-10-17T17:29:00.000Z
 tags: komunálky strategie
 author: Jiří Ducháček
 image: assets/img/posts/2018/vyjednavani.jpg
@@ -34,7 +34,7 @@ published: true
 - Zúčastníme se pouze takové koalice, která se zaváže ke splnění většiny z našich programových priorit, a do Programového prohlášení je zařadí.
 
 **Programové priority Pirátů v České Třebové**
-          
+
 1)  V nejbližším možném termínu začít zveřejňovat anonymizované podklady pro jednání Zastupitelstva města v plném rozsahu.
 2)  Zavést participativní rozpočty jako jednu z položek rozpočtu města.
 3)  Zavést „Jednotný informační systém města,“ který kromě webové prezentace bude poskytovat i data otevřená a strojově čitelná.
