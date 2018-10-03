@@ -35,13 +35,13 @@ published: true
 
 **Programové priority Pirátů v České Třebové**
 
-1)  V nejbližším možném termínu začít zveřejňovat anonymizované podklady pro jednání Zastupitelstva města v plném rozsahu.
-2)  Zavést participativní rozpočty jako jednu z položek rozpočtu města.
-3)  Zavést „Jednotný informační systém města,“ který kromě webové prezentace bude poskytovat i data otevřená a strojově čitelná.
-4)  Území města bude rozvíjeno v duchu územních regulativů “krajinné zeleně” (pouze cesty pro pěší a cyklisty a drobné intervence). Bude zpracována studie za aktivní účasti občanů.
-5)  Na webu města budou v přehledné webové aplikaci zveřejněny aktuální informace o všech připravovaných stavebních záměrech města a městských organizací, a o všech městu známých stavebních záměrech jiných subjektů. Tyto informace budou zveřejněny jako otevřená data.
-6)  Koalice bude usilovat o rozvoj městského bytového fondu za účelem poskytování sociálního a startovacího bydlení a výhledově také dostupného nájemního bydlení.
-7)  Budou vytvořeny standardy pro opatření na zadržování vody, a rozvoj zelené infrastruktury a vodních prvků v ulicích města.
+1.  V nejbližším možném termínu začít zveřejňovat anonymizované podklady pro jednání Zastupitelstva města v plném rozsahu.
+2. Zavést participativní rozpočty jako jednu z položek rozpočtu města.
+3. Zavést „Jednotný informační systém města,“ který kromě webové prezentace bude poskytovat i data otevřená a strojově čitelná.
+4. Území města bude rozvíjeno v duchu územních regulativů “krajinné zeleně” (pouze cesty pro pěší a cyklisty a drobné intervence). Bude zpracována studie za aktivní účasti občanů.
+5. Na webu města budou v přehledné webové aplikaci zveřejněny aktuální informace o všech připravovaných stavebních záměrech města a městských organizací, a o všech městu známých stavebních záměrech jiných subjektů. Tyto informace budou zveřejněny jako otevřená data.
+6. Koalice bude usilovat o rozvoj městského bytového fondu za účelem poskytování sociálního a startovacího bydlení a výhledově také dostupného nájemního bydlení.
+7. Budou vytvořeny standardy pro opatření na zadržování vody, a rozvoj zelené infrastruktury a vodních prvků v ulicích města.
 
 **Tolerance Rady města.**
 
