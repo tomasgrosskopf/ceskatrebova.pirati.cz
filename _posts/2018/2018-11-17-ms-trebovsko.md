@@ -1,27 +1,20 @@
 ---
 layout: post
 category: CLANKY
-title: Volby 2018
-date: 2018-10-09T09:20:00.000Z
-tags: komunálky jednání koalice
+title: Založení MS Česká Třebová
+date: 2018-11-17T09:20:00.000Z
+tags: MS založení česká třebová 
 author: Jiří Ducháček
-image: assets/img/posts/2018/volby2018.png
+image: assets/img/posts/2018/zalozeni.jpg
 published: true
 ---
-**Volby 2018**
-Vážení příznivci, spoluobčané,
+**ZALOŽENÍ MS ČESKÁ TŘEBOVÁ**
+Dnes 17.11.bylo založeno místní sdružení PIRÁTI ČESKÁ TŘEBOVÁ. 
+Udělali jsme to v den, kdy připomínáme den boje mladých lidí, studentů, proti útlaku a za svobodu. 
+Zvolili jsme historicky první předsednictvo a ustanovili místní sdružení.
+ Byl to další krok k tomu, abychom se přiblížili občanům z regionu a mohli pomoci všem co mají zájem jak se stát členem České pirátské strany nebo se i jen zapojit a přidat se jako příznivec. 
+ Při založení byl přítomen i poslanec parlamentu ČR Mikuláš Fejrenčík. 
 
-komunální volby jsou za námi a po úvodních setkáních některých stran považujeme za vhodné okomentovat dosavadní vývoj.
+ Děkujeme všem za podporu a slibujeme, že budeme držet kurz i nadále...z…
 
-My jako Piráti jsme se drželi již dříve zveřejněné povolební strategie, s cílem vést jednání v již klidnější povolební atmosféře.
-Na jednáních jsme si chtěli s ostatními subjekty ujasnit průniky programových bodů, probrat budoucí uspořádání orgánů města a možnosti další spolupráce. V souladu s tímto záměrem jsme své politické partnery informovali o připravenosti k jednání, nicméně do této doby nebyla výzva vyslyšena. V některých médiích se dokonce objevila mírně zavádějící informace o tom, že Piráti zůstali stranou povolebních jednání. Chceme zdůraznit, že se tak nestalo naší vinou nebo pasivitou!
-Jsme i nadále připraveni jednat, ale jak je známo, k tomu musí být alespoň dva .
-
-V kontrastu s uvedeným bylo podepsáno memorandum čtyř stran v čele s Koalicí pro ČT, ve kterém si strany vzájemně odsouhlasily exkluzivitu pro další jednání o koaliční smlouvě. To může znamenat významný krok směrem k povolebnímu uspořádání radnice, ale také nemusí.
-Postup v jednání budeme nadále bedlivě sledovat.
-
-Chceme tímto sdělením ujistit naše voliče, příznivce i ostatní občany města, že jsme připraveni prosazovat program, ke kterému jste nám dali mandát.
-
-Drobné vlny na rybníku komunální politiky nás nerozhází, naopak nás hodí kupředu k prosazení našich programových cílů, ke kterým budeme neochvějně držet kurz…
-
-**Pustili jste nás na ně, díky!**
+**Držíme kurz**
