@@ -10,7 +10,7 @@ published: true
 ---
 **Česká Třebová dalším přístavem Pirátů!!!**
 
-Česká Třebová dalším přístavem Pirátů!!!
+
 
 V sobotu 17.11.bylo za účasti pana poslance Mikuláše Ferjenčíka založeno místní
  sdružení České Pirátské strany v České Třebové (MS Česká Třebová).  Po založení
