@@ -8,17 +8,22 @@ author: Jiří Ducháček
 image: assets/img/posts/2018/zalozeni.jpg
 published: true
 ---
-**ZALOŽENÍ MS ČESKÁ TŘEBOVÁ**
+**Česká Třebová dalším přístavem Pirátů!!!**
 
-Dnes 17.11.bylo založeno místní sdružení PIRÁTI ČESKÁ TŘEBOVÁ.
-Udělali jsme to v den, kdy připomínáme den boje mladých lidí, studentů, proti útlaku a za svobodu.
+Česká Třebová dalším přístavem Pirátů!!!
 
-Zvolili jsme historicky první předsednictvo a ustanovili místní sdružení.
+V sobotu 17.11.bylo za účasti pana poslance Mikuláše Ferjenčíka založeno místní
+ sdružení České Pirátské strany v České Třebové (MS Česká Třebová).  Po založení
+  bylo také zvoleno předsednictvo místního sdružení.
 
-Byl to další krok k tomu, abychom se přiblížili občanům z regionu a mohli pomoci
-všem co mají zájem jak se stát členem České pirátské strany nebo se i jen zapojit a přidat se jako příznivec.
-Při založení byl přítomen i poslanec parlamentu ČR Mikuláš Fejrenčík.
+Datum, kdy se tak stalo, je symbolické. V tento den jsme si připomněli boj
+všech lidí, ale hlavně studentů, za svobodu a demokracii. Tyto principy Piráti
+ ctí a rozvíjejí. Doplňují je především snahou o transparenci státní správy
+ a využití moderních technologií při správě věcí veřejných.
 
-Děkujeme všem za podporu a slibujeme, že budeme držet kurz i nadále...…
+Tyto principy budou Piráti prosazovat také na místní úrovni všemi silami,
+které jim byly a budou občany svěřeny.
+
+Jsme zde a DRŽÍME KURZ!!!
 
 **Držíme kurz**
