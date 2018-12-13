@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pozvánka na Zastupitelstvo města Česká Třebová
-date: 2018-12-09T07:20:00.000Z
+date: 2018-12-12T07:20:00.000Z
 tags: zastupitelstvo  zprávy česká třebová
 author: Jiří Ducháček
 image: assets/img/posts/2018/zm17122018.jpg
