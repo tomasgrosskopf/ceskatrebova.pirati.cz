@@ -5,7 +5,7 @@ title: Návrh projednání změny jednacího řádu.
 date: 2018-12-12T07:20:00.000Z
 tags: zastupitelstvo  zprávy česká třebová
 author: Jiří Ducháček
-image: assets\img\posts\2019\návrhzmnjr.png
+image: assets\img\posts\2019\návrhzmnjr.jpg
 published: true
 ---
 **Návrh projednání změny jednacího řádu.**
