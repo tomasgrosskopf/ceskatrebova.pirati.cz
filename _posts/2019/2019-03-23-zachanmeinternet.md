@@ -32,7 +32,6 @@ internet jej automatické algoritmy zkontrolují a v případě nálezu závadn�
 Další obětí v pořadí bude svoboda slova na internetu. V Pardubicích jsme dali jasně najevo,
 co si o takovýchto omezeních myslíme.
 Internet je naše moře a my si ho vzít nenecháme!
-
  * [ZACHRAŇME INTERNET][1]
 [1]: https://zachraninternet.cz/
 
