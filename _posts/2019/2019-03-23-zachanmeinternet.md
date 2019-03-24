@@ -32,13 +32,15 @@ internet jej automatické algoritmy zkontrolují a v případě nálezu závadn�
 Další obětí v pořadí bude svoboda slova na internetu. V Pardubicích jsme dali jasně najevo,
 co si o takovýchto omezeních myslíme.
 Internet je naše moře a my si ho vzít nenecháme!
- * [ZACHRAŇME INTERNET][1]
-[1]: https://zachraninternet.cz/
-
-
 
 Jsme Piráti a  říkáme **NE cenzuře**,
 
-               říkáme **ANO svobodnému přístupu k informacím**,
+říkáme **ANO svobodnému přístupu k informacím**,
 
-               říkáme  **ANO internetu bez omezení **.
+říkáme  **ANO internetu bez omezení**.
+----------------
+* [ZACHRAŇME INTERNET][1]
+
+
+
+[1]:https://zachraninternet.cz/
