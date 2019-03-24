@@ -37,10 +37,8 @@ Internet je naše moře a my si ho vzít nenecháme!
 
 
 
-Jsme Piráti a
+Jsme Piráti a  říkáme **NE cenzuře**,
 
-říkáme **NE cenzuře**,
+               říkáme **ANO svobodnému přístupu k informacím**,
 
-říkáme **ANO svobodnému přístupu k informacím **,
-
-říkáme **ANO internetu bez omezení **.
+               říkáme  **ANO internetu bez omezení **.
