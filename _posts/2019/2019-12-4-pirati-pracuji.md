@@ -1,31 +1,43 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti uklízejí Česko.
-date: 2019-04-06T07:20:00.000Z
-tags: zpravy uklid priroda zachranme ceska trebová
+title: Piráti pracují.
+date: 2019-04-11T07:20:00.000Z
+tags: zpravy smartcity smart opensw transparence otevřené město česká trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/uklid.jpg
+image: assets/img/posts/2019/smartcity4.jpg
 published: true
 ---
-**Piráti uklízejí**
+**Piráti pracují**
 
-Piráti z České Třebové se i v letošním roce připojili k národní kampani Ukliďme Česko.
-Tato akce má za cíl uklidit z přírody věci, které tam nepatří, jako jsou třeba černé
-skládky a další nepořádek. Druhým cílem je budování kladného vztahu k přírodě a
-životnímu prostředí vůbec.
-Již staří Orientálci věděli, že sebedelší a namáhavější cesta začíná prvním krokem.
+Piráti pracují pro město!
 
-Počasí nám přálo, i když původní předpověď nebyla příznivá. Naše skupina prošla
-trasu od Pivovarského rybníčku údolím Křivolíka, kde jsme navštívili pravěkou osadu
-Bacrie a udělali krátkou přestávku na opečení buřtů. Po občerstvení jsme pokračovali
-v úklidu směrem na Serpentýny a zpět k Horám, kde jsme akci dokončili.
-Nikdy nás nepřestane udivovat, že i v tak krásném prostředí jako je Křivolík a Hory,
-nalezneme věci jako jsou pneumatiky, staré rolety a jiné odpadky, které v přírodě nemají co dělat.
-Už se těšíme na další podobné akce a budeme rádi, když se k nám přidáte.
+Před volbami jsme slíbili, že ať získáme jakýkoli počet mandátů, budeme pracovat pro město.
+Jak se nám to daří, posuďte sami.
 
-Česká Třebová je naše město a chceme ho mít co nejkrásnější.
+1. Podařilo se nám nastartovat jednání vedoucí k zavedení elektronického hlasovacího zařízení
+při jednáních Zastupitelstva města, následnou úpravu Jednacího řádu zohledňující jeho použití a
+umožňující streamování (přímé přenosy) jednání.
 
-Jsme Piráti a  říkáme **NE ODPADKŮM V PŘÍRODĚ**,
+2. Podílíme se na přípravě hotspotů veřejné wifi sítě ve městě v rámci projektu WIFI4EU.
 
-říkáme **ANO ČISTÉMU PROSTŘEDÍ OKOLO NÁS**.
+3. Ve spolupráci s Českými radiokomunikacemi pracujeme na zlepšení příjmu DVBT-2 ve městě.
+
+4. V rámci nově zřízené městské skupiny pro IT pracujeme na zapojení města do projektu SMART city.
+Cílem projektu je postupná digitalizace úřadu, propojenost systému s městskou kartou tak aby byla
+co nejšíře využitelná například v knihovně, parkovacích automatech a dalších místech. Jedním z
+podstatných cílů projektu je zapojení města do systému otevřených měst. Cílem je transparence
+městských financí včetně zavedení rozklikávacího rozpočtu. I proto jsme se zúčastnili konference
+o SMART city v Brně a spolupracujeme i v rámci projektu Otevřená města (více na www.otevrenamesta.cz).
+Tam se snažíme inspirovat a přejímat řešení již osvědčená v praxi a užitečná pro naše město.
+
+5. V rámci IT komise jsme doporučili použití open source softwarového systému Golemio jako jádra
+systému pro Smart City. Jedná se o otevřený software, který je dostupný prakticky zadarmo oproti
+placeným řešením velkých firem.
+
+Na prosazování pirátských myšlenek pro město přirozeně spolupracujeme a vyjednáváme i s ostatními
+zastupiteli a jsme rádi, že se nám daří o užitečnosti pirátských principů přesvědčovat naše kolegy
+v zastupitelstvu i odborných komisích. Bez spolupráce bychom se neobešli a ke komunální politice prostě patří.
+Dlouhodobě říkáme, že nechceme být opozicí za každou cenu a myslíme, že naše dosavadní činnost to jen potvrzuje.
+
+Jsme Piráti.**Držíme kurz.**
