@@ -1,14 +1,14 @@
 ---
 layout: post
 category: CLANKY
-title: Piráti pracují pro město.
+title: Piráti pracují pro město !!.
 date: 2019-04-11T07:20:00.000Z
 tags: zpravy smartcity smart opensw transparence otevřené město česká trebová
 author: Jiří Ducháček
 image: assets/img/posts/2019/smartcity4.jpg
 published: true
 ---
-**Piráti pracují pro město**
+**Piráti pracují pro město !!**
 
 Piráti pracují pro město!
 
