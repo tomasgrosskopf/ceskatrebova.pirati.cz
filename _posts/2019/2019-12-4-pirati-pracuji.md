@@ -40,4 +40,4 @@ zastupiteli a jsme rádi, že se nám daří o užitečnosti pirátských princi
 v zastupitelstvu i odborných komisích. Bez spolupráce bychom se neobešli a ke komunální politice prostě patří.
 Dlouhodobě říkáme, že nechceme být opozicí za každou cenu a myslíme, že naše dosavadní činnost to jen potvrzuje.
 
-Jsme Piráti.**Držíme kurz.**
+Jsme Piráti.  **Držíme kurz.**
