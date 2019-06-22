@@ -1,25 +1,26 @@
 ---
 layout: post
 category: CLANKY
-title: I TŘEBOVŠTÍ PIRÁTI PODPORUJÍ !!
-date: 2019-06-04T07:20:00.000Z
-tags: demisi demonstrace česká trebová
+title: VEŘEJNÁ SCHŮZE MS ČESKOTŘEBOVSKO
+date: 2019-06-21T07:20:00.000Z
+tags: piráti schuze česká trebová
 author: Jiří Ducháček
-image: assets/img/posts/2019/vaclavak.jpg
+image: assets/img/posts/2019/schuze062019.png
 published: true
 ---
-**I TŘEBOVŠTÍ PIRÁTI PODPORUJÍ !!**
-
-V úterý 4.6.2019 se zástupci českotřebovských Pirátů vypravili na demonstraci
-organizovanou spolkem Milion chvilek pro demokracii v Praze na Václavském náměstí.
-Mezi cíle demonstrací organizovaných tímto spolkem patří mimo jiné přijetí
-pojistek nezávislosti justice, demise Marie Benešové a demise Andreje Babiše.
-
-S těmito požadavky se ztotožňujeme a podpořili jsme je svou přítomností na Václaváku.
-
-Více o organizovaných demonstracích na https://www.milionchvilek.cz/
+** VEŘEJNÁ SCHŮZE MS ČESKOTŘEBOVSKO**
+Zveme vás na veřejnou schůzku pirátského místního sdružení Českotřebovsko.
 
 
+**SHARING IS CARING**.
+
+Ve středu  26.6.2019 se od 18:00 hod. v salónku restaurace pivovar FALTUS koná
+veřejná schůze MS Českotřebovsko.
+Naše sdružení má v Pardubickém kraji na starost okres Ústí nad Orlicí.
+Na programu budou informace od našich zastupitelů, zprávy z kraje a zhodnocení kampaně.
+
+Máte možnost zeptat se, na to co vás zajímá, nebo s čím potřebujete poradit.
+Naši zastupitelé se pokusí Vaše připomínky předat k řešení na příslušná místa.
 
 
 
