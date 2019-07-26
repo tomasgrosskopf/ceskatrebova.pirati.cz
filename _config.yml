@@ -24,11 +24,11 @@ url: "http://ceskatrebova.pirati.cz" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-
+  - jekyll-get-json
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
