@@ -5,6 +5,7 @@ gem "jekyll-paginate", "1.1.0"
 gem "jekyll-sitemap", "1.0.0"
 gem "jekyll-feed", "~> 0.9.1"
 gem "jekyll-sass-converter"
- group :development, :test do
+gem "jekyll-get-json"
+group :development, :test do
   gem "html-proofer"
 end
