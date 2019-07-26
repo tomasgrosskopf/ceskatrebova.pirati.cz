@@ -24,7 +24,7 @@ url: "http://ceskatrebova.pirati.cz" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
