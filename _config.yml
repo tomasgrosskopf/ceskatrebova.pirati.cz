@@ -29,6 +29,7 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-get-json
+
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
