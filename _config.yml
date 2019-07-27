@@ -106,3 +106,7 @@ gplus: https://plus.google.com/u/0/+piratskastrana
 emptyArray: []
 peoplesOnForum: https://forum.pirati.cz/pardubicky-kraj-g35.html
 
+jekyll_get_json:
+  - data: members
+    json: 'https://graph.pirati.cz/deadbeef-babe-f002-000000000599/members'
+
