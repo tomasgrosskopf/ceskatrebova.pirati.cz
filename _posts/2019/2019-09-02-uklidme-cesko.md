@@ -30,7 +30,7 @@ tel.: 778 439 559
 
 e-mail: martin.saifrt@pirati.cz
 
-FB: [facebook.com/events/2268278503484022/](facebook.com/events/2268278503484022/)
+FB: [https://facebook.com/events/2268278503484022/](https://facebook.com/events/2268278503484022/)
 
 oficiální info na webu: [https://www.uklidmecesko.cz/event/23780](https://www.uklidmecesko.cz/event/23780)
 
