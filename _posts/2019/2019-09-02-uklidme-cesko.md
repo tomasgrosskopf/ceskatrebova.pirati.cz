@@ -4,7 +4,7 @@ category: CLANKY
 title: UKLIĎME ČESKO - Piráti z České Třebové se opět zapojí
 date: 2019-09-02T07:20:00.000Z
 tags: zpravy uklid priroda zachranme ceska trebová
-author: Jiří Ducháček
+author: Martin Saifrt
 image: assets/img/posts/2019/uklidmecesko.jpg
 published: true
 ---
