@@ -30,8 +30,9 @@ tel.: 778 439 559
 
 e-mail: martin.saifrt@pirati.cz
 
-FB: [https://facebook.com/events/2268278503484022/](https://facebook.com/events/2268278503484022/)
+FB: [https://facebook.com/events/2268278503484022/](https://facebook.com/events/2268278503484022/){:target="_blank"}
 
-oficiální info na webu: [https://www.uklidmecesko.cz/event/23780](https://www.uklidmecesko.cz/event/23780)
+oficiální info na webu: [https://www.uklidmecesko.cz/event/23780](https://www.uklidmecesko.cz/event/23780){:target="_blank"}
 
-web Piráti: [https://ceskatrebova.pirati.cz/](https://ceskatrebova.pirati.cz/)
+
+web Piráti: [https://ceskatrebova.pirati.cz/](https://ceskatrebova.pirati.cz/){:target="_blank"}
