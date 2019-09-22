@@ -5,7 +5,7 @@ title: Ukliďme Česko - Českotřebovští piráti uklidili okolí letiště
 date: 2019-09-22T07:11:00.000Z
 tags: zpravy uklid priroda zachranme ceska trebová
 author: Martin Saifrt
-image: assets\img\posts\2019\uklidcesko2019\uklidzari.jpg
+image: assets/img/posts/2019/uklidcesko2019/uklidzari.jpg
 published: true
 ---
 **Českotřebovští piráti se  21. září opět zapojili do celorepublikové akce jménem UKLIĎME ČESKO.**
