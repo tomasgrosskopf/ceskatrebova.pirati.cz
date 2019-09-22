@@ -12,12 +12,7 @@ published: true
 
 Začátek úklidu byl naplánován na desátou hodinu, po té co jsme se sešli, rozdali jsme si pytle a vrhli se do úklidu.
 
-{% img {{'assets/img/posts/2019/uklidcesko2019/uklidzari2.jpg'}} magick:2x alt:'This is my alt' sprockets:accept:image/gif %}
-
-
-
 Podél silnice u letiště, jsme nalezli mnoho nepořádku, který zde zanechávají nepořádní řidiči, kteří zde zastaví, občerství se a obaly vyhodí z okénka. Kromě obalů od různých nápojů, sušenek, brambůrků, alkoholických nápojů, jsme také nalezli pytlík s podezřelým práškem a mnoho alobalu. Co bylo obsahem onoho pytlíku, proč byl všude rozházený a a roztrhaný alobal si můžeme tak maximálně všichni domyslet.
-
 
 
 Po dvou hodinách, jsme došli na hasičskou chatu pojmenovanou Florián a společně se posilnili opečenými špekáčky.
