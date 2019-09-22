@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Ukliďme Česko - Českotřebovští piráti uklidili okolí letiště
-date: 2019-09-22T07:20:00.000Z
+date: 2019-09-21T07:20:00.000Z
 tags: zpravy uklid priroda zachranme ceska trebová
 author: Martin Saifrt
 image: assets/img/posts/2019/uklidzari.jpg
