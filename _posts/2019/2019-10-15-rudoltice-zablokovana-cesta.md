@@ -5,7 +5,7 @@ title: Rudoltičtí piráti upozornili na zablokování účelové cesty
 date: 2019-10-15T07:11:00.000Z
 tags: zpravy zatupitele rudoltice
 author: Martin Saifrt
-image: assets/img/posts/2019/uklidcesko2019/rudoltice.jpg
+image: assets/img/posts/2019/rudoltice.jpg
 published: true
 ---
 **V březnu tohoto roku, jsme na vedení obce a facebooku upozorňovali na netypické osvojení příjezdové cesty v Rudolticích. Majitel pozemku, přes který vede účelová komunikace k několika domům, polním a lesním parcelám, se v tiché součinnosti s radnicí rozhodl cestu uzavřít. Rudoltičtí piráti se však ohradili a upozornili na to, že jeho počínání je v rozporu se zákonem o pozemních komunikacích.**
