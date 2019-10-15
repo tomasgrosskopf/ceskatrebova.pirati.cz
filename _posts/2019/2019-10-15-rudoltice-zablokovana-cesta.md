@@ -20,4 +20,4 @@ Lanškrounský odbor dopravy a silničního hospodářství dne 3. 10. 2019 rozh
 
 Tyto okolnosti považujeme za příznačný případ špatné komunikace vedení obce s občany a mrháním veřejnými zdroji, které mohly být využity na smysluplnější investice v Rudolticích u Lanškrouna.
 
-[FACEBOOK PIRÁTI RUDOLTICE](https://ceskatrebova.pirati.cz/tiskove-zpravy/rudoltice-zablokovana-cesta.html)
+[FACEBOOK PIRÁTI RUDOLTICE](https://www.facebook.com/piratirudoltice.cz/)
