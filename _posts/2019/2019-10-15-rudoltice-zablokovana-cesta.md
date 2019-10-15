@@ -19,3 +19,5 @@ Také vedení Rudoltic začalo v srpnu roku 2019 situaci řešit po svém. Bylo 
 Lanškrounský odbor dopravy a silničního hospodářství dne 3. 10. 2019 rozhodl, že komunikace, kterou majitel oplotil a znemožnil tím přístupu obyvatel k jejich nemovitostem, je účelovou komunikací dle zákona o pozemních komunikacích. Vlastník pozemku má povinnost do 3 dnů od nabytí právní moci odstranit nepovolenou pevnou překážku z cesty (bránu a 13 kovových sloupků včetně pletiva), a to tím způsobem, aby byl umožněn bezpečný průjezd vozidlům a průchod chodcům.
 
 Tyto okolnosti považujeme za příznačný případ špatné komunikace vedení obce s občany a mrháním veřejnými zdroji, které mohly být využity na smysluplnější investice v Rudolticích u Lanškrouna.
+
+https://www.facebook.com/piratirudoltice.cz/
