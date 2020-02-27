@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Nechme o využití veřejného prostoru rozhodovat občany!
+title: Chceme nechat o využití veřejného prostoru rozhodovat občany
 date: 2020-02-27T07:11:00.000Z
 tags: zpravy zatupitele 
 author: Piráti Česká Třebová
