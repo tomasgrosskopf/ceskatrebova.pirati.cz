@@ -14,6 +14,6 @@ Dle informací, které máme, pozemek v roce 2013 zakoupili manželé za cenu 25
 
 Za sedm let tržní cena pozemku stoupla na 1,2 milionu Kč. Obec nevyužila možnosti předkupního práva a pozemek si nekoupila zpět, ale přenechala ho k finanční spekulaci. Manželé se tak díky laskavosti obce obohatili na její úkor o **950 000,-Kč.**
 
->„Na jednání zastupitelstva jsem dlouho veřejně diskutoval se starostou. Poukazoval jsem, že manželé z Pardubic nakoupili od obce v roce 2013 dva pozemky, každý za 250 tis. a že jeden už tímto způsobem prodali, že i kdyby jej obec koupila zpět a prodala za stejnou cenu, tedy bez zisku, tak je to správný hospodář s veřejnými financemi. Také jsme podali návrh na usnesení, aby obec využila svého předkupního práva, ale pod taktovkou starosty návrh nebyl přijat.“ **Podotýká rudoltický zastupitel za Pirátskou stranu Tomáš Kolomý.**
+>„Na jednání zastupitelstva jsem dlouho veřejně diskutoval se starostou. Poukazoval jsem, že manželé z Pardubic nakoupili od obce v roce 2013 dva pozemky, každý za 250 tis. a že jeden už tímto způsobem prodali, že i kdyby jej obec koupila zpět a prodala za stejnou cenu, tedy bez zisku, tak je to správný hospodář s veřejnými financemi. Také jsme podali návrh na usnesení, aby obec využila svého předkupního práva, ale pod taktovkou starosty návrh nebyl přijat,“ **podotýká rudoltický zastupitel za Pirátskou stranu Tomáš Kolomý.**
 
 Tento pasivní přístup zastupitelstva obce k odkupu pozemku jde zásadně proti institutu péče řádného hospodáře a svým postojem nahrává úzkým skupinám a spekulantům.
