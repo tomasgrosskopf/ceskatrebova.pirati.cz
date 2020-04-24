@@ -37,12 +37,14 @@ v oblasti nájemního bydlení město uplatňovat a jakou cestou se vydá. Je lh
 zda to označíme za strategii, za vizi či plán. Jisté ale je, že „něco takového“ potřebujeme.
 Veďme veřejnou debatu o vhodných lokalitách pro novou výstavbu v intencích připravovaného
 nového územního plánu.
+
 Zajímejme se o dotační programy a hledejme vhodnou formu jejichvyužití pro naše záměry.
 
 Proveďme průzkum mezi obyvateli, získejme rámcový přehled ojejich očekáváních v oblasti bydlení.
 Na základě zjištěných informací uvažujme nad různými formami a možnostmi výstavby nového bydlení.
-Rozhlédněme se po blízkých městech v okolí, poučme se z jejich zkušeností.
-A až tak učiníme, budeme jistě stát před otázkou, kde na to vzít.
+
+Rozhlédněme se po blízkých městech v okolí, poučme se z jejich zkušeností.A až tak učiníme,
+budeme jistě stát před otázkou, kde na to vzít.
 
 Proto o tomto tématu píšeme právě v souvislosti s privatizací Čtverce a Jezevčíka.
 Naším záměrem je využít získané finance z privatizace na podporu vzniku dalšího bydlení.
