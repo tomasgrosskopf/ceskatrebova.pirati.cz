@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: PRIVATIZACE MĚSTSKÝCH DOMŮ „JEZEVČÍK“ A „ČTVEREC“
+title: Kam směřuje nájemné bydlení v České Třebové ?
 date: 2020-04-24T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
