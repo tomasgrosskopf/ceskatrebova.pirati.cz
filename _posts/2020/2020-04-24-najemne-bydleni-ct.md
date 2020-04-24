@@ -5,7 +5,7 @@ title: Kam směřuje nájemné bydlení v České Třebové ?
 date: 2020-04-24T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/nájemné.webp
+image: assets/img/posts/2020/nájemné.png
 published: true
 ---
 **Kam směřuje nájemné bydlení v České Třebové**
