@@ -51,7 +51,8 @@ Sledujte náš Facebook.
 
 Jako tenká červená nit se Vaším komentářem táhne jedna zcela zjevná skutečnost. Před napsáním
 svého komentáře jste náš původní text nečetl a reagoval jste na několik vět z jiného média.
-Buďte tak laskav a přečtěte si náš původní text alespoň nyní: https://www.facebook.com/605344673146669/posts/1143698922644572/
+Buďte tak laskav a přečtěte si náš původní text alespoň nyní:
+[Facebook](https://www.facebook.com/605344673146669/posts/1143698922644572/)
 
 Váš komentář připomínající výkon hluchého hrajícího tichou poštu, Vám ovšem nezabránil ve zkreslování
 a dokonce ve výzvách, co bychom měli dělat. Všem těmto negativům jsme přizpůsobili i naši reakci, která je,
