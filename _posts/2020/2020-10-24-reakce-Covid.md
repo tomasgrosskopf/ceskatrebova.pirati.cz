@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Covid výzva.
+title: COVID VÝZVA
 date: 2020-10-25T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
