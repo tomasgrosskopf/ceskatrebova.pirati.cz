@@ -5,7 +5,7 @@ title: COVID VÝZVA
 date: 2020-10-25T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
-image: assets/img/posts/2020/mask-covid.png
+image: assets/img/posts/2020/covid.png
 published: true
 ---
 
