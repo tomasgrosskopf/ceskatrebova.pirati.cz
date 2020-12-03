@@ -10,8 +10,8 @@ fullname: Mgr.Jaroslav Lainz
 img: people/jaroslav.lainz.jpg
 description: člen Pirátské strany
 candidatedesc: sociální pracovník
-ordpak: 4
-ordkomunal2018: 4
+ordpak: 2
+ordkomunal2018: 2
 mail:
 - null
 mob:
