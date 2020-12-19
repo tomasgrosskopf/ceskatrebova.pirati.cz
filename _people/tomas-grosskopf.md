@@ -7,8 +7,8 @@ category:
   - pms
 img: people/tomas.grosskopf.jpg  # 165 x 220
 candidatedesc: pedagog
-ordpak: 8
-ordkomunal2018: 8
+ordpak:9
+ordkomunal2018: 9
 mail:
   - tomas.grosskopfn@pirati.cz
 mob: null
