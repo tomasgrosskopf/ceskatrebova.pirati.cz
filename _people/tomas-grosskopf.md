@@ -13,7 +13,7 @@ ordpak: 2
 ordkomunal2018: 2
 mail: tomas.grosskopf@pirati.cz
 - null
-mob: +
+mob: 
 profiles:
   github:
   facebook:
