@@ -6,13 +6,14 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/jiri.duchacek.jpg
-description: člen Pirátské strany
+description: Předseda Krajského sdružení, zastupitel Pardubického kraje
 candidatedesc: IT manager
+zastup: 1
 ordpak: 1
 ordkomunal2018: 1
 mail:
   - jiri.duchacek@pirati.cz
-mob: null
+mob: +420 777 701 751
 profiles:
   github: null
   facebook: null
