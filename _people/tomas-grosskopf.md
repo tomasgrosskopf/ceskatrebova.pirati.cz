@@ -7,8 +7,8 @@ uid: tomas.grosskopf
 name: Tomáš Grosskopf
 fullname: Tomáš Grosskopf
 img: people/tomas.grosskopf.jpg
-description: 1.místopředseda MS Českotřebovsko
-candidatedesc: pedagog
+
+
 ordpms: 2
 msp: 2
 ordkomunal2018: 2
@@ -21,7 +21,27 @@ profiles:
   twitter:
   flickr:
 ---
-
+---
+uid: tomas.grosskopf
+name: Tomáš Grosskopf
+fullname:  Tomáš Grosskopf
+category:
+  - pak
+  - pms
+img: people/tomas.grosskopf.jpg
+candidatedesc: pedagog
+ordpak: 8
+ordkomunal2018: 8
+mail:
+  - tomas.grosskopfn@pirati.cz
+mob: null
+profiles:
+  github: null
+  facebook: null
+  twitter: null
+  linkedin: null
+published: true
+---
 ## Tomáš Grosskopf 
 *(nar. 9. ledna 1982)*
 
