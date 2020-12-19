@@ -11,7 +11,7 @@ img: people/jaroslav.lainz.jpg
 description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
 candidatedesc: sociální pracovník
 ordpms: 1
-ordkomunal2018: 2
+ordkomunal2018: 1
 mail: jaroslav.lainz@pirati.cz
 - null
 mob: +420 775 059 367
