@@ -24,9 +24,9 @@ img: brand/logo.svg
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">Senátorští kandidáti obvodu 44 s podporou Pirátů</a>
+                                    <a href="#senat" class="c-simple-accordion-title">Zastupitelé měst a obcí</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat-chrudim'" | sort:"ordsenat" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat-chrudim'" | sort:"zastup" %}
                                         {% include people/list-2col.html param=team %}
 					{% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
