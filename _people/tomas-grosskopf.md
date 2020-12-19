@@ -1,30 +1,7 @@
 ---
-title: Tomáš Grosskopf
-published: true
-categories:
-- pak
 uid: tomas.grosskopf
 name: Tomáš Grosskopf
 fullname: Tomáš Grosskopf
-img: people/tomas.grosskopf.jpg
-
-
-ordpms: 2
-msp: 2
-ordkomunal2018: 2
-mail: tomas.grosskopf@pirati.cz
-- null
-mob: 
-profiles:
-  github:
-  facebook:
-  twitter:
-  flickr:
----
----
-uid: tomas.grosskopf
-name: Tomáš Grosskopf
-fullname:  Tomáš Grosskopf
 category:
   - pak
   - pms
