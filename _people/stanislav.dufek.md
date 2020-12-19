@@ -9,8 +9,6 @@ fullname: Stanislav Dufek
 img: people/stanislav.dufek.jpg
 description: 2. místopředseda MS Českotřebovsko, člen kontrolního výboru zastupitelstva Pardubického kraje
 candidatedesc: null
-ordpak: 7
-ordkomunal2018: 7
 mail: stanislav.dufek@pirati.cz
 - null
 mob: 
