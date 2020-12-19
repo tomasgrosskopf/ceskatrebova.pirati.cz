@@ -6,8 +6,9 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/zbynek.ruda.jpg
-description: příznivec Pirátské strany
+description: zastupitel Česká Třebová, člen MS Českotřebovsko
 candidatedesc: Marketingový manažer
+zastup: 2
 ordpak: 2
 ordkomunal2018: 2
 mail:
