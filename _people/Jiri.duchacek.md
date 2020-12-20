@@ -3,12 +3,13 @@ uid: jiri.duchacek
 name: Jiří Ducháček
 fullname: Jiří Ducháček
 category:
+  - zast
   - pak
   - kandidat-ceskatrebova-2018
 img: people/jiri.duchacek.jpg
 description: Předseda Krajského sdružení, zastupitel Pardubického kraje
 candidatedesc: IT manager
-zastup: 1
+zast: 1
 ordpak: 10
 ordkomunal2018: 10
 mail:
