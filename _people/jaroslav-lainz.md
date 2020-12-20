@@ -3,7 +3,6 @@ uid: jaroslav.lainz
 name: Jaroslav Lainz
 fullname: Mgr. Jarosla Lainz
 category:
-  - pak
   - pms
   - kandidat-ceskatrebova-2018
 img: people/jaroslav.lainz.png           # 165 x 220
