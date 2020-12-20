@@ -10,7 +10,7 @@ fullname: Mgr.Jaroslav Lainz
 img: people/jaroslav.lainz.jpg
 description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
 candidatedesc: sociální pracovník
-ordpak: 1
+ordsenat:
 ordkomunal2018: 1
 mail: jaroslav.lainz@pirati.cz
 - null
