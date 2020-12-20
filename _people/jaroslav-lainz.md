@@ -12,7 +12,7 @@ ordpak: 6
 ordkomunal2018: 6
 ordsenat: 
 mail:
-  - tomas.grosskopf@pirati.cz
+  - jaroslav.lainz@pirati.cz
 mob: null
 profiles:
   github: null
