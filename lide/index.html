@@ -12,7 +12,7 @@ img: brand/logo.svg
                         <div class="c-BasicPage-content">
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#zastupitele" class="c-simple-accordion-title">**Poslanci Pardubického kraje**</a>
+                                    <a href="#zastupitele" class="c-simple-accordion-title">POSLANCI PARDUBICKÉHO KRAJE</a>
                                     <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
                                         <div class="c-simple-accordion-content-block">
                                             {% assign team = site.people | where_exp:"item","item.categories contains 'poslanec-pce'" %}
@@ -24,7 +24,7 @@ img: brand/logo.svg
                             </ul>
 		<ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-	<a href="#senat" class="c-simple-accordion-title">Zastupitelé měst a obcí</a>
+	<a href="#senat" class="c-simple-accordion-title">ZASTUPITELÉ MĚST A OBCÍ</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"zast" %}
                                         {% include people/list-2col.html param=team %}
@@ -36,7 +36,7 @@ img: brand/logo.svg
 				
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
 				<li class="c-simple-accordion-item is-active" data-accordion-item="">
-				<a href="#senat" class="c-simple-accordion-title">Předsednictvo místního sdružení</a>
+				<a href="#senat" class="c-simple-accordion-title">PŘEDSEDNICTVO MÍSTNÍHO SDRUŽENÍ</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"pms" %}
                                         {% include people/list-2col.html param=team %}
@@ -46,7 +46,7 @@ img: brand/logo.svg
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">Náši členové</a>
+                                    <a href="#senat" class="c-simple-accordion-title">NAŠI ČLENOVÉ</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordpak" %}
                                         {% include people/list-2col.html param=team %}
