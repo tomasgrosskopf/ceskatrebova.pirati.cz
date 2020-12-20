@@ -4,12 +4,13 @@ name: Stanislav Dufek
 fullname: Stanislav Dufek
 category:
   - pak
+  - pms
   - kandidat-ceskatrebova-2018
 img: people/stanislav.dufek.png           # 165 x 220
 description: 2. místopředseda MS Českotřebovsko, člen kontrolního výboru zastupitelstva Pardubického kraje
 ordpak: 3
 ordkomunal2018: 6
-ordsenat: 
+pms: 3 
 mail:
   - stanislav.dufek@pirati.cz
 mob: null
