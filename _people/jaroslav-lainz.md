@@ -9,7 +9,7 @@ category:
 img: people/jaroslav.lainz.png           # 165 x 220
 description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
 candidatedesc: pedafog
-ordpak: 6
+ordpak: 1
 ordkomunal2018: 6
 pms: 1 
 mail:
