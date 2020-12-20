@@ -28,7 +28,7 @@ img: brand/logo.svg
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"pms" %}
                                         {% include people/list-2col.html param=team %}
-					{% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
+					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
                                 </li>
                             </ul>
