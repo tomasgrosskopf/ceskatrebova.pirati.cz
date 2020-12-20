@@ -6,7 +6,7 @@ category:
 
   - zast
   - kandidat-ceskatrebova-2018
-img: people/zbynek.ruda.jpg           # 165 x 220
+img: people/zbynek.ruda.png           # 165 x 220
 description: zastupitel Česká Třebová, člen MS Českotřebovsko
 candidatedesc: Marketingový manažer
 zast: 2
