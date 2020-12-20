@@ -7,14 +7,14 @@ category:
   - pms
   - kandidat-ceskatrebova-2018
 img: people/jaroslav.lainz.png           # 165 x 220
-description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
+description: **Předseda MS Českotřebovsko**, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
 candidatedesc: pedafog
 ordpak: 6
 ordkomunal2018: 6
 pms: 1 
 mail:
   - jaroslav.lainz@pirati.cz
-mob: null
+mob: +420 775 059 367
 profiles:
   github: null
   facebook: null
