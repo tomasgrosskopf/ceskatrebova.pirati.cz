@@ -3,7 +3,6 @@ uid: tomas.grosskopf
 name: Tomáš Grosskopf
 fullname:  Tomáš Grosskopf
 category:
-  - pak
   - pms
   - kandidat-ceskatrebova-2018
 img: people/tomas-grosskopf.png           # 165 x 220
