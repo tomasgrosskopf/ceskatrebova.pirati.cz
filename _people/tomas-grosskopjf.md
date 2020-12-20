@@ -10,6 +10,7 @@ description: 1.místopředseda MS Českotřebovsko
 candidatedesc: pedafog
 ordpak: 8
 ordkomunal2018: 8
+pms: 1
 mail:
   - tomas.grosskopf@pirati.cz
 mob: null
