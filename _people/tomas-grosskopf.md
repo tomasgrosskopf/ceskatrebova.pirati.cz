@@ -5,7 +5,7 @@ fullname: Tomáš Grosskopf
 category:
   - pak
   - pms
-img: people/tomas.grosskopf.png  
+img: people/tomas-grosskopf.png  
 candidatedesc: pedagog
 ordpak:9
 ordkomunal2018: 9
