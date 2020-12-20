@@ -5,7 +5,7 @@ fullname:  Tomáš Grosskopf
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/tomas-grosskopf.png
+img: people/tomas-grosskopf.png           # 165 x 220
 description: 1.místopředseda MS Českotřebovsko
 candidatedesc: pedafog
 ordpak: 8
