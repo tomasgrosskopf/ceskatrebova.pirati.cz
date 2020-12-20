@@ -1,26 +1,25 @@
 ---
-title: Jaroslav Lainz
-published: true
-categories:
-- pak
-- kandidat-ceskatrebova-2018
-uid: jaroslav.lainz
-name: Jaroslav Lainz
-fullname: Mgr.Jaroslav Lainz
-img: people/jaroslav.lainz.jpg
-description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
-candidatedesc: sociální pracovník
-ordsenat:
-ordkomunal2018: 1
-mail: jaroslav.lainz@pirati.cz
-- null
-mob: +420 775 059 367
+uid: tomas.grosskopf
+name: Tomáš Grosskopf
+fullname:  Tomáš Grosskopf
+category:
+  - pak
+  - kandidat-ceskatrebova-2018
+img: people/tomas-grosskopf.png           # 165 x 220
+description: 1.místopředseda MS Českotřebovsko
+candidatedesc: pedafog
+ordpak: 6
+ordkomunal2018: 6
+pms: 1
+mail:
+  - tomas.grosskopf@pirati.cz
+mob: null
 profiles:
-  github:
-  facebook:
-  twitter:
-  flickr:
----
+  github: null
+  facebook: null
+  twitter: null
+  linkedin: null
+published: 
 
 ## Mgr. Jaroslav Lainz
 *Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje*
