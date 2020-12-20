@@ -45,7 +45,7 @@ img: brand/logo.svg
                                 </li>
                             </ul>
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                                <li class="c-simple-accordion-item" data-accordion-item="">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                     <a href="#senat" class="c-simple-accordion-title">NAŠI ČLENOVÉ</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
                                         {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordpak" %}
