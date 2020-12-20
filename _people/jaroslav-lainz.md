@@ -1,16 +1,16 @@
 ---
-uid: tomas.grosskopf
-name: Tomáš Grosskopf
-fullname:  Tomáš Grosskopf
+uid: jaroslav.lainz
+name: Jaroslav Lainz
+fullname: Mgr. Jarosla Lainz
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/tomas-grosskopf.png           # 165 x 220
-description: 1.místopředseda MS Českotřebovsko
+img: people/jaroslav.lainz.jpg           # 165 x 220
+description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje
 candidatedesc: pedafog
 ordpak: 6
 ordkomunal2018: 6
-pms: 1
+ordsenat: 1
 mail:
   - tomas.grosskopf@pirati.cz
 mob: null
