@@ -10,7 +10,7 @@ description: Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubi
 candidatedesc: pedafog
 ordpak: 6
 ordkomunal2018: 6
-ordsenat: 1
+ordsenat: 
 mail:
   - tomas.grosskopf@pirati.cz
 mob: null
