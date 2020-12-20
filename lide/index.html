@@ -26,7 +26,7 @@ img: brand/logo.svg
                                 <li class="c-simple-accordion-item" data-accordion-item="">
                                     <a href="#senat" class="c-simple-accordion-title">Předsednictvo místního sdružení</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordsenat" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"pms" %}
                                         {% include people/list-2col.html param=team %}
 					{% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
