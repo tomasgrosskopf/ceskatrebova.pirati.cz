@@ -6,8 +6,8 @@ category:
   - pak
   - kandidat-ceskatrebova-2018
 img: people/tomas-grosskopf.png
-description: člen Pirátské strany
-candidatedesc: seřizovač lisu
+description: 1.místopředseda MS Českotřebovsko
+candidatedesc: pedafog
 ordpak: 8
 ordkomunal2018: 8
 mail:
