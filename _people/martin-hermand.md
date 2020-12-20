@@ -5,7 +5,7 @@ fullname:  Martin Hermand
 category:
   - pak
   - kandidat-ceskatrebova-2018
-img: people/martin-herman.jpg
+img: people/tomas-grosskopf.jpg
 description: člen Pirátské strany
 candidatedesc: seřizovač lisu
 ordpak: 8
