@@ -19,8 +19,8 @@ profiles:
   facebook: null
   twitter: null
   linkedin: null
-published: 
-
+published: true
+---
 ## Mgr. Jaroslav Lainz
 *Předseda MS Českotřebovsko, člen Výboru Zastupitelstva Pardubického kraje pro výchovu, vzdělávání a zaměstnanost, člen Redakční rady Českotřebovského zpravodaje*
 
