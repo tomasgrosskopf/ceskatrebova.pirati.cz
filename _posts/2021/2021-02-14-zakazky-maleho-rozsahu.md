@@ -8,8 +8,7 @@ author: Piráti Česká Třebová
 image: assets/img/posts/2021/zakazky.jpg
 published: true
 ---
-**Vážení spoluobčané,
-s politováním a zklamáním jsme v prosinci přijali zprávu o neschválení našeho návrhu na úpravu Směrnice pro zadávání veřejných zakázek malého rozsahu (dále jen Směrnice) Radou města. Byl tak částečně završen proces, který započal již v roce 2019, a my se s Vámi nyní chceme podělit o komentář. Nahlédněme společně pod pokličku místní politiky, kterou v předvolebním období popisovaly některé subjekty jako politiku, v níž se nerozlišuje koalice nebo opozice. Politiku, v níž všichni spolupracují a jde jim o dobro obyvatel. Posuďte sami, nakolik se tato předvolební rétorika shoduje s naší zkušeností.**
+**S politováním a zklamáním jsme v prosinci přijali zprávu o neschválení našeho návrhu na úpravu Směrnice pro zadávání veřejných zakázek malého rozsahu (dále jen Směrnice) Radou města. Byl tak částečně završen proces, který započal již v roce 2019, a my se s Vámi nyní chceme podělit o komentář. Nahlédněme společně pod pokličku místní politiky, kterou v předvolebním období popisovaly některé subjekty jako politiku, v níž se nerozlišuje koalice nebo opozice. Politiku, v níž všichni spolupracují a jde jim o dobro obyvatel. Posuďte sami, nakolik se tato předvolební rétorika shoduje s naší zkušeností.**
 
 V létě 2019 jsme se rozhodli podívat na veřejné zakázky města a způsob jejich přidělování. Z veřejně dostupných zdrojů jsme zpracovali analýzu a identifikovali několik témat, která podle našeho názoru stála za pozornost. Navrhovali jsme:
 
