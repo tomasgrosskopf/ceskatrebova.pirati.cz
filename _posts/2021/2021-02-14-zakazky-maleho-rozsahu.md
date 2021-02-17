@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: Pirátský návrh na úpravu Směrnice pro zadávání veřejných zakázek malého rozsahu byl odmítnut
-date: 2020-11-13T07:11:00.000Z
+date: 2021-02-14T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
 image: assets/img/posts/2021/zakazky.jpg
