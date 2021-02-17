@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: NOVÉ PŘEDSEDNICTVO MS
+title: Pirátský návrh na úpravu Směrnice pro zadávání veřejných zakázek malého rozsahu byl odmítnut
 date: 2020-11-13T07:11:00.000Z
 tags: ceska-trebova
 author: Piráti Česká Třebová
