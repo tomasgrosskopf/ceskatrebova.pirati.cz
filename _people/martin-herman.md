@@ -20,5 +20,8 @@ published: true
 ---
 ## Martin Herman
 
-30.9.1982, vyučen automechanikem, zaměstnán jako seřizovač lisu. Předsedou MS Českotřebovsko (v letech 2018 – 2020).
+(*30.9.1982)
+
+Vyučen automechanikem, zaměstnán jako seřizovač lisu. Předsedou MS Českotřebovsko (v letech 2018 – 2020).
+
 Pirátskou myšlenku sdílím už od založení strany, ale prakticky jsem požádal o členství až v roce 2017 a přijat jsem byl začátkem roku 2018. Od té doby se aktivně podílím na chodu Pirátů, hlavně v Pardubickém Kraji.
