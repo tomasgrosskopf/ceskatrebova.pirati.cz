@@ -18,7 +18,11 @@ profiles:
   linkedin: null
 published: true
 ---
-Vladek Vácha (* 8. srpna 1980) místopředseda Krajského sdružení Pirátské strany v Pardubickém kraji. Garant Krajského Expertního Týmu Kultura a člen KETů Bezpečnost, Doprava, Sport, Průmysl, Sociální oblast a cestovní ruch. 
+Vladek Vácha 
+
+(* 8. srpna 1980) 
+
+*Místopředseda Krajského sdružení Pirátské strany v Pardubickém kraji. Garant Krajského Expertního Týmu Kultura a člen KETů Bezpečnost, Doprava, Sport, Průmysl, Sociální oblast a cestovní ruch.* 
 
 Vladek Vácha pochází z města Česká Třebová a od roku 2017 žije v obci Mistrovice na Králicku.
 
