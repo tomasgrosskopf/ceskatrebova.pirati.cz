@@ -9,7 +9,6 @@ img: people/martin.saifrt.png
 description: člen Pirátské strany
 candidatedesc: komunitní  pracovník
 ordpak: 3
-ordkomunal2018: 3
 mail:
   - martin.saifrt@pirati.cz
 mob: null
