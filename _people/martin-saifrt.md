@@ -4,10 +4,11 @@ name: Martin Saifrt
 fullname: Martin Saifrt
 category:
   - pak
+  - 
  img: people/martin.saifrt.png
 description: člen Pirátské strany
 candidatedesc: komunitní  pracovník
-ordpak: 3
+ordpak: 6
 mail:
   - martin.saifrt@pirati.cz
 mob: null
