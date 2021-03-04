@@ -21,7 +21,7 @@ profiles:
   linkedin: null
 published: true
 ---
-### Jiří Ducháček 
+## Jiří Ducháček 
 *(nar. 1969)*
 
 Narodil jsem se, vyrůstal a v současné době žiji v České Třebové. Jsem členem České Pirátské strany a kandiduji za Piráty v komunálních volbách. Vystudoval jsem elektro -silnoproud, poté jsem prošel různými profesemi od ekonoma pro tehdy ještě ČSD, elektromechanika v ŽOS Česká Třebová, montéra vedení VVN.
