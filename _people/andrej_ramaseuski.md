@@ -19,7 +19,7 @@ profiles:
   linkedin: null
 published: true
 ---
-**ANDREJ RAMAŠEUSKI**
+## ANDREJ RAMAŠEUSKI
 
 Pochází z Minsku (Bělorusko) a od roku žije v Česku. V 90. letech 20. století byl členem stran Demokratický svaz (1989-1991) a Transnacionální radikální strana (1990-1994). V roce 1993 byl jedním se spoluzakladatelů běloruské Strany Přátel Piva, kterou vedl na prezidentských volbách 1994 a parlamentních volbách 1995. V roce 1996 následkem konfliktu s autoritativním režimem A. Lukašenka byl nucen opustit domov a v roce 1997 obdržel v Česku politický azyl. Od té doby na 20 let opustil politiku a věnoval se rodině a práci. Liberální až (někdy) libertariánské politické názory přesto nikdy nezměnil.
 
