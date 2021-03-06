@@ -4,12 +4,10 @@ name: Tomáš Grosskopf
 fullname:  Tomáš Grosskopf
 category:
   - pms
-  - kandidat-ceskatrebova-2018
 img: people/tomas-grosskopf.png           # 165 x 220
 description: 1.místopředseda MS Českotřebovsko
 candidatedesc: pedafog
 ordpak: 8
-ordkomunal2018: 8
 pms: 2
 mail:
   - tomas.grosskopf@pirati.cz
