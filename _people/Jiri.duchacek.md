@@ -4,13 +4,11 @@ name: Jiří Ducháček
 fullname: Jiří Ducháček
 category:
   - zast
-  - kandidat-ceskatrebova-2018
 img: people/jiri.duchacek.jpg
 description: Předseda Krajského sdružení, zastupitel Pardubického kraje
 candidatedesc: IT manager
 zast: 1
 ordpak: 10
-ordkomunal2018: 10
 mail:
   - jiri.duchacek@pirati.cz
 mob: +420 777 701 751
