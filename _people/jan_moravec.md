@@ -20,7 +20,7 @@ published: true
 ---
 ## Jan Moravec
 
-(*16.května 1983) 
+(*16. května 1983) 
 
 *člen Pirátské strany, MS Českotřebovsko*
 
