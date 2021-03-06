@@ -6,7 +6,7 @@ category:
   - pak
 img: people/jan_moravec.jpg
 description: člen Pirátské strany
-candidatedesc: 
+candidatedesc: elektro
 ordpak: 9
 mail:
   - jan.moravec@pirati.cz
@@ -22,7 +22,7 @@ published: true
 
 (*16.května 1983) 
 
-*člen Pirátské strany, konkrétně MS Českotřebovsko*
+*člen Pirátské strany, MS Českotřebovsko*
 
 V současné době žije v Letohradě (okres Ústí nad Orlicí). Vystudoval jako elektrikář-slaboproudař (vyučení, následně maturita), ale většinu pracovního života dělal ve skladové logistice. Od roku 2017 je na mateřské/rodičovské.  
 
