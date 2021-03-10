@@ -18,14 +18,10 @@ profiles:
   linkedin: null
 published: true
 ---
-Ahoj,  jmenuji se **Martin Herman**, je mi 36 let a jsem rodák z České Třebové, kde také
-cely život žiji. Kandiduji proto, abych pomohl na radnici zavést transparenci,
-otevřenost, která v našem městě znatelně chybí. Chybí tu i přehledný web s
-dostatkem potřebných informací, rozklikávací rozpočet, a pokulhává celková
-informovanost obyvatel o rozhodování radnice. Rád bych změnil přístup radnice k
-občanům, protože si myslím, že je tu radnice pro lidi a ne lidé pro radnici.  Rád bych,
-aby se občané díky participativnímu rozpočtu podíleli nápady a náměty na zlepšení
-chodu města. Rád bych jako standard zavedl streamování (tedy &quot;přímé přenosy&quot;)
-zasedání Zastupitelstva města a také archivování záznamů z těchto zasedání tak,
-aby si každý občan mohl ověřit, jak jeho zvolený zastupitel pracuje a zastupuje zájmy
-občanů města.
+## Martin Herman
+
+(*30.9.1982)
+
+*Vyučen automechanikem, zaměstnán jako seřizovač lisu. Předsedou MS Českotřebovsko (v letech 2018 – 2020).*
+
+Pirátskou myšlenku sdílím už od založení strany, ale prakticky jsem požádal o členství až v roce 2017 a přijat jsem byl začátkem roku 2018. Od té doby se aktivně podílím na chodu Pirátů, hlavně v Pardubickém Kraji.
