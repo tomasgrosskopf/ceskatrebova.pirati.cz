@@ -1,17 +1,15 @@
----
-uid: jiri.duchacek
-name: Jiří Ducháček
-fullname: Jiří Ducháček
+uid: jan.moravec
+name: Jan Moravec
+fullname: Jan Moravec
 category:
-  - zast
-img: people/jiri.duchacek.jpg
-description: Předseda Krajského sdružení, zastupitel Pardubického kraje
-candidatedesc: IT manager
-zast: 1
-ordpak: 10
+  - pak
+img: people/Jan_Moravec.png
+description: člen Pirátské strany
+candidatedesc: elektro
+ordpak: 15
 mail:
-  - jiri.duchacek@pirati.cz
-mob: +420 777 701 751
+  - jan.moravec@pirati.cz
+mob: null
 profiles:
   github: null
   facebook: null
