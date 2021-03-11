@@ -1,16 +1,17 @@
 ---
-uid: zbynek.ruda
-name: Zbyněk Ruda
-fullname: Zbyněk Ruda
+uid: jiri.duchacek
+name: Jiří Ducháček
+fullname: Jiří Ducháček
 category:
   - zast
- img: people/zbyneruda.png           # 165 x 220
-description: zastupitel Česká Třebová, člen MS Českotřebovsko
-candidatedesc: Marketingový manažer
-zast: 2
+img: people/jiri.duchacek.jpg
+description: Předseda Krajského sdružení, zastupitel Pardubického kraje
+candidatedesc: IT manager
+zast: 1
+ordpak: 10
 mail:
-  - null
-mob: null
+  - jiri.duchacek@pirati.cz
+mob: +420 777 701 751
 profiles:
   github: null
   facebook: null
