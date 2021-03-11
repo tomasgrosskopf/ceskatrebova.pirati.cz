@@ -5,7 +5,7 @@ fullname: Martin Saifrt
 category:
   - pak
 img: people/martinsaifrt.png
-description: člen Pirátské strany
+description: Vedoucí krajského mediálního odboru Pardubický kraj, člen Pirátské strany
 candidatedesc: PR manager, Komunitní pracovník, Vedoucí krajského mediálního odboru Pardubický kraj
 ordpak: 15
 mail:
