@@ -1,5 +1,5 @@
 ---
-uid: zbynek.ruda
+uid: zbynek_ruda
 name: Zbyněk Ruda
 fullname: Zbyněk Ruda
 category:
