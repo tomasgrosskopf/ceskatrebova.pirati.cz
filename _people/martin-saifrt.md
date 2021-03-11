@@ -1,20 +1,22 @@
 ---
-uid: martin.saifrt
-name: Martin Saifrt
-fullname: Martin Saifrt
+uid: jiri.duchacek
+name: Jiří Ducháček
+fullname: Jiří Ducháček
 category:
-  - pak
- img: people/martin.saifrt.png
-description: člen Pirátské strany
-candidatedesc: komunitní  pracovník
-ordpak: 6
+  - zast
+img: people/jiri.duchacek.jpg
+description: Předseda Krajského sdružení, zastupitel Pardubického kraje
+candidatedesc: IT manager
+zast: 1
+ordpak: 10
 mail:
-  - martin.saifrt@pirati.cz
-mob: null
+  - jiri.duchacek@pirati.cz
+mob: +420 777 701 751
 profiles:
   github: null
   facebook: null
   twitter: null
+  linkedin: null
 published: true
 ---
 Jsem člověk, který se o politiku zajímá od roku 2010 a to poté, co nám město
