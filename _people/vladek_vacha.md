@@ -4,7 +4,7 @@ name: Vladek Vácha
 fullname: Vladek Vácha
 category:
   - pak
-img: people/vladek_vacha.jpg
+img: people/vladek_vacha.png
 description: člen Pirátské strany, Místopředseda Krajského sdružení 
 candidatedesc: technolog
 ordpak: 8
