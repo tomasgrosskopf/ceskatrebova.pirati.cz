@@ -1,11 +1,12 @@
-uid: jan.moravec
-name: Jan Moravec
-fullname: Jan Moravec
+---
+uid: martin.saifrt
+name: Martin Saifrt
+fullname: Martin Saifrt
 category:
   - pak
-img: people/Jan_Moravec.png
+img: people/martin.saifrt.png
 description: člen Pirátské strany
-candidatedesc: elektro
+candidatedesc: PR manager, Komunitní pracovník, Vedoucí krajského mediálního odboru Pardubický kraj
 ordpak: 15
 mail:
   - jan.moravec@pirati.cz
