@@ -9,7 +9,7 @@ description: Vedoucí krajského mediálního odboru Pardubický kraj, člen Pir
 candidatedesc: PR manager, Komunitní pracovník, Vedoucí krajského mediálního odboru Pardubický kraj
 ordpak: 15
 mail:
-  - jan.moravec@pirati.cz
+  - martin.saifrt@pirati.cz
 mob: null
 profiles:
   github: null
