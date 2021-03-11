@@ -4,7 +4,7 @@ name: Martin Saifrt
 fullname: Martin Saifrt
 category:
   - pak
-img: people/martin.saifrt.png
+img: people/martinsaifrt.png
 description: člen Pirátské strany
 candidatedesc: PR manager, Komunitní pracovník, Vedoucí krajského mediálního odboru Pardubický kraj
 ordpak: 15
